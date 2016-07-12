@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"searchResult" ],
+	"name" : "SewafBatchedListWithSearch",
+	"pools" : [
+		 ],
+	"super" : "SewafBatchedList",
+	"type" : "normal" }

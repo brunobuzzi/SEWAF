@@ -1,0 +1,15 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedItemBackcolor",
+		"itemsBackcolor" ],
+	"name" : "SewafLateralBatchedList",
+	"pools" : [
+		 ],
+	"super" : "SewafBatchedComponent",
+	"type" : "normal" }

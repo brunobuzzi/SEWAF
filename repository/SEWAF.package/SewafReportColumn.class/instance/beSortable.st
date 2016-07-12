@@ -1,0 +1,4 @@
+other
+beSortable
+
+	isSortable := true.

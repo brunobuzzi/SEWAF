@@ -1,0 +1,19 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parent",
+		"htmlAttributes",
+		"hasSortIcons",
+		"tableClass",
+		"informationComponent",
+		"searchSelector" ],
+	"name" : "SewafAccessibleTable",
+	"pools" : [
+		 ],
+	"super" : "WATableReport",
+	"type" : "normal" }

@@ -1,0 +1,4 @@
+other
+beSearchable
+
+	hasSearch := true.

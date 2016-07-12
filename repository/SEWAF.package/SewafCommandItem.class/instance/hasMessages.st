@@ -1,0 +1,4 @@
+other
+hasMessages
+
+	^messagesToSend notEmpty

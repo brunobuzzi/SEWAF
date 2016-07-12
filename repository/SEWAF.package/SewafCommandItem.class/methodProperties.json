@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addMessageToSend:" : "BrunoBB 03/06/2016 13:44",
+		"addMessagesToSend:" : "BrunoBB 03/06/2016 13:51",
+		"getCommandItem:ifNone:" : "BrunoBB 03/06/2016 13:42",
+		"hasMessages" : "BrunoBB 03/06/2016 13:52",
+		"initialize" : "BrunoBB 03/06/2016 13:42",
+		"messagesToSend" : "BrunoBB 03/06/2016 13:42",
+		"messagesToSend:" : "BrunoBB 03/06/2016 13:42",
+		"performComponentMessage" : "BrunoBB 03/06/2016 13:57",
+		"performMessages" : "BrunoBB 03/06/2016 13:57",
+		"reset" : "BrunoBB 03/06/2016 14:05" } }

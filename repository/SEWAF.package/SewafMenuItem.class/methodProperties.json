@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"label:command:" : "BrunoBB 05/31/2015 14:43",
+		"label:icon:" : "BrunoBB 05/31/2015 14:43",
+		"label:icon:command:" : "BrunoBB 05/31/2015 14:43" },
+	"instance" : {
+		"command" : "BrunoBB 05/31/2015 14:43",
+		"command:" : "BrunoBB 05/31/2015 14:43",
+		"getCommandItem:ifNone:" : "BrunoBB 03/06/2016 12:50",
+		"isSubMenu" : "BrunoBB 05/31/2015 14:43",
+		"itemIcon" : "BrunoBB 05/31/2015 14:43",
+		"itemIcon:" : "BrunoBB 05/31/2015 14:43",
+		"itemLabel" : "BrunoBB 05/31/2015 14:43",
+		"itemLabel:" : "BrunoBB 05/31/2015 14:43" } }

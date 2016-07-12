@@ -1,0 +1,15 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"items",
+		"selectedItem" ],
+	"name" : "OrSubMenuItem",
+	"pools" : [
+		 ],
+	"super" : "OrMenuItem",
+	"type" : "normal" }

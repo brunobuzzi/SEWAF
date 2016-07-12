@@ -1,0 +1,4 @@
+other
+tryLogin
+
+	self subclassResponsibility

@@ -1,0 +1,4 @@
+rendering
+closeInformation
+
+	informationComponent := nil.

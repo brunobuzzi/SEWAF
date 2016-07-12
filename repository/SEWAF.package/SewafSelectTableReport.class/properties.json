@@ -1,0 +1,16 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedObject",
+		"selectedColor",
+		"nonSelectedColor" ],
+	"name" : "SewafSelectTableReport",
+	"pools" : [
+		 ],
+	"super" : "SewafAccessibleTable",
+	"type" : "normal" }

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"backcolor" : "BrunoBB 06/02/2016 14:17",
+		"backcolor:" : "BrunoBB 06/02/2016 14:17",
+		"booleanColumn" : "BrunoBB 06/02/2016 14:17",
+		"booleanSelector" : "BrunoBB 06/02/2016 14:17",
+		"booleanSelector:" : "BrunoBB 06/02/2016 14:17",
+		"buttonLabel" : "BrunoBB 06/02/2016 14:17",
+		"buttonLabel:" : "BrunoBB 06/02/2016 14:17",
+		"buttonTitle" : "BrunoBB 06/02/2016 14:17",
+		"buttonTitle:" : "BrunoBB 06/02/2016 14:17",
+		"callbackSelector" : "BrunoBB 06/02/2016 14:17",
+		"callbackSelector:" : "BrunoBB 06/02/2016 14:17",
+		"fieldSetStyle" : "BrunoBB 06/02/2016 14:17",
+		"fieldSetStyle:" : "BrunoBB 06/02/2016 14:17",
+		"initialize" : "BrunoBB 06/12/2016 12:40",
+		"renderColumn:row:on:" : "BrunoBB 06/02/2016 14:17",
+		"renderContentOn:" : "BrunoBB 06/12/2016 17:23",
+		"renderHeaderForColumn:on:" : "BrunoBB 07/03/2016 17:36",
+		"renderRowNumber:item:on:" : "BrunoBB 06/02/2016 14:17",
+		"renderTableHeaderOn:" : "BrunoBB 06/02/2016 14:17" } }

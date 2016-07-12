@@ -1,0 +1,15 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"user",
+		"password" ],
+	"name" : "SewafUserPasword",
+	"pools" : [
+		 ],
+	"super" : "SEWAFWebWidget",
+	"type" : "normal" }

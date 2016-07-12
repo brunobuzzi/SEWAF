@@ -1,0 +1,2 @@
+other
+renderBottomAreaOn: html

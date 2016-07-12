@@ -1,0 +1,24 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addSearchValue:named:" : "BrunoBB 03/10/2016 15:02",
+		"addValue:named:" : "BrunoBB 07/21/2015 15:24",
+		"componentValueAt:" : "BrunoBB 07/21/2015 15:24",
+		"componentValueAt:ifAbsent:" : "BrunoBB 06/19/2016 12:13",
+		"componentValues" : "BrunoBB 07/21/2015 15:24",
+		"componentValues:" : "BrunoBB 07/21/2015 15:24",
+		"gitbookUrl" : "BrunoBB 03/04/2016 13:49",
+		"hasSearchValueAt:" : "BrunoBB 12/08/2015 12:43",
+		"initialize" : "BrunoBB 07/21/2015 15:24",
+		"initializeComponentValues" : "BrunoBB 06/19/2016 12:51",
+		"removeSearchValueNamed:" : "BrunoBB 07/21/2015 15:24",
+		"removeValueNamed:" : "BrunoBB 07/21/2015 15:24",
+		"searchApplied" : "BrunoBB 07/21/2015 15:24",
+		"searchApplied:" : "BrunoBB 07/21/2015 15:24",
+		"searchAvailable" : "BrunoBB 07/21/2015 15:24",
+		"searchAvailable:" : "BrunoBB 07/21/2015 15:24",
+		"searchValueAt:" : "BrunoBB 07/21/2015 15:24",
+		"searchValueAt:ifAbsent:" : "BrunoBB 03/10/2016 14:46",
+		"searchValues" : "BrunoBB 07/21/2015 15:24",
+		"searchValues:" : "BrunoBB 07/21/2015 15:24" } }

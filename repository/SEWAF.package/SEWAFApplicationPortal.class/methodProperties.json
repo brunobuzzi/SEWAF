@@ -1,0 +1,25 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"applicationIcon" : "BrunoBB 07/01/2015 11:57",
+		"applicationName" : "BrunoBB 07/01/2015 11:57",
+		"initialize" : "BrunoBB 07/01/2015 11:58",
+		"initializeNavigation" : "BrunoBB 07/01/2015 11:57",
+		"logout" : "BrunoBB 07/01/2015 11:57",
+		"redirectToGitbookManual" : "BrunoBB 05/15/2016 15:50",
+		"renderApplicationIconOn:" : "BrunoBB 06/11/2016 13:43",
+		"renderBottomAreaOn:" : "BrunoBB 07/23/2015 12:35",
+		"renderComponentOn:" : "BrunoBB 03/06/2016 14:05",
+		"renderContentOn:" : "BrunoBB 07/23/2015 12:39",
+		"renderLogoutOn:" : "BrunoBB 04/13/2016 11:35",
+		"renderOpenCloseIconOn:" : "BrunoBB 05/15/2016 15:54",
+		"renderTopAreaOn:" : "BrunoBB 12/08/2015 17:22",
+		"renderTopMenuOn:" : "BrunoBB 07/01/2015 11:57",
+		"renderTopSubMenuOn:" : "BrunoBB 07/01/2015 12:05",
+		"selectSubTabNamed:inMenu:ifNone:" : "BrunoBB 03/06/2016 13:45",
+		"selectTabNamed:ifNone:" : "BrunoBB 03/06/2016 13:46",
+		"showMainMenu" : "BrunoBB 07/01/2015 11:58",
+		"showMainMenu:" : "BrunoBB 07/01/2015 11:58",
+		"style" : "BrunoBB 03/02/2016 12:57",
+		"versionName" : "BrunoBB 06/11/2016 13:15" } }

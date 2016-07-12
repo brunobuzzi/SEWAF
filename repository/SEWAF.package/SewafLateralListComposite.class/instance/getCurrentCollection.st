@@ -1,0 +1,4 @@
+lateral list
+getCurrentCollection
+
+	self subclassResponsibility

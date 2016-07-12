@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"showMainMenu" ],
+	"name" : "SEWAFApplicationPortal",
+	"pools" : [
+		 ],
+	"super" : "SEWAFWebObjectPanel",
+	"type" : "normal" }

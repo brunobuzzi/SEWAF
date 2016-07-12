@@ -1,0 +1,20 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"parentComponent",
+		"items",
+		"batchSize",
+		"currentPage",
+		"isBottomBatch",
+		"batchNavigationRange",
+		"navigationCssClass" ],
+	"name" : "SewafBatchedComponent",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

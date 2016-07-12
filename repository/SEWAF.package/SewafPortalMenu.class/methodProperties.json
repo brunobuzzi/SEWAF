@@ -1,0 +1,14 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"addItem:" : "BrunoBB 05/31/2015 14:43",
+		"getCommandItem:inMenu:ifNone:" : "BrunoBB 03/06/2016 13:14",
+		"getItemLabel:ifNone:" : "BrunoBB 03/06/2016 13:00",
+		"iconLibrary" : "BrunoBB 04/10/2016 19:03",
+		"iconLibrary:" : "BrunoBB 05/31/2015 14:43",
+		"initialize" : "BrunoBB 05/31/2015 14:43",
+		"items" : "BrunoBB 05/31/2015 14:43",
+		"items:" : "BrunoBB 05/31/2015 14:43",
+		"selectedItem" : "BrunoBB 05/31/2015 14:43",
+		"selectedItem:" : "BrunoBB 05/31/2015 14:43" } }

@@ -1,0 +1,19 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lateralCollection",
+		"searchResult",
+		"selectedLateralItem",
+		"showLateralList",
+		"searchPanelName",
+		"batchedList" ],
+	"name" : "SewafLateralListComposite",
+	"pools" : [
+		 ],
+	"super" : "SEWAFWebObjectComposite",
+	"type" : "normal" }

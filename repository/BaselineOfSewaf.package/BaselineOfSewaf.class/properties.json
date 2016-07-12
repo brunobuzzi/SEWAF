@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSewaf",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSewaf",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

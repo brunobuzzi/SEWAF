@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"originalTable" ],
+	"name" : "SewafBatchedList",
+	"pools" : [
+		 ],
+	"super" : "SewafBatchedComponent",
+	"type" : "normal" }

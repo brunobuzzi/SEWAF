@@ -1,0 +1,15 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"operations",
+		"buttonsFormId" ],
+	"name" : "SewafBooleanOperationTable",
+	"pools" : [
+		 ],
+	"super" : "SewafBooleanTable",
+	"type" : "normal" }

@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"on:" : "BrunoBB 08/21/2014 12:13",
+		"parent:" : "BrunoBB 08/21/2014 12:13",
+		"parent:on:" : "BrunoBB 08/21/2014 12:13" },
+	"instance" : {
+		"childPanel" : "BrunoBB 08/21/2014 12:30",
+		"childPanel:" : "BrunoBB 08/21/2014 12:30",
+		"mainPanel" : "BrunoBB 08/21/2014 12:13",
+		"mainPanel:" : "BrunoBB 08/21/2014 12:13",
+		"setParent:" : "BrunoBB 03/06/2016 12:40" } }

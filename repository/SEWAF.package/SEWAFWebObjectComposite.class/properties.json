@@ -1,0 +1,18 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedObject",
+		"searchAvailable",
+		"searchApplied",
+		"searchValues",
+		"componentValues" ],
+	"name" : "SEWAFWebObjectComposite",
+	"pools" : [
+		 ],
+	"super" : "SEWAFPluginWebPanel",
+	"type" : "normal" }

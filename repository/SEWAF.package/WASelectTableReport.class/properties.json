@@ -1,0 +1,15 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"selectedObject",
+		"selectedColor" ],
+	"name" : "WASelectTableReport",
+	"pools" : [
+		 ],
+	"super" : "WATableReport",
+	"type" : "normal" }

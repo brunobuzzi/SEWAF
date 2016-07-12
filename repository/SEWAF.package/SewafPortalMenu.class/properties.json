@@ -1,0 +1,16 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"items",
+		"selectedItem",
+		"iconLibrary" ],
+	"name" : "SewafPortalMenu",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
