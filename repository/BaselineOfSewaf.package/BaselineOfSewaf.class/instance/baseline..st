@@ -5,4 +5,4 @@ baseline: spec
     for: #'common' do: [ 
 		spec baseline: 'Sewaf' with: [
 			  spec repository: 'github://brunobuzzi/SEWAF:master' ].
-		spec package: 'SEWAF'].
+spec package: 'SEWAF'].
