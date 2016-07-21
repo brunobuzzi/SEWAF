@@ -7,6 +7,6 @@ renderApplicationIconOn: html
 			title: 'Application Icon'].
 
 	html div with: [
-		html div with: [html heading: self applicationName].
+		html div id: 'top-app-name'; with: [html text: self applicationName].
 		html div id: 'top-app-version-name'; with: [html text: self versionName].
 	].

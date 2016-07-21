@@ -6,6 +6,4 @@ renderLogoutOn: html
 			altText: ('Logout from Application' translateFor: self session user); 
 			title: ('Logout from Application' translateFor: self session user).
 		html output: ('Logout' translateFor: self session user).
-		html break.
-		html output: (self session user username).
 	].
