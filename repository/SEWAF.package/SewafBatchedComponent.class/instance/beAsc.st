@@ -1,0 +1,4 @@
+other
+beAsc
+
+	orderMode := #asc

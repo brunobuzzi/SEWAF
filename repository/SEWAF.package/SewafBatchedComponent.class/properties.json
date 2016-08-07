@@ -12,7 +12,9 @@
 		"currentPage",
 		"isBottomBatch",
 		"batchNavigationRange",
-		"navigationCssClass" ],
+		"navigationCssClass",
+		"initialItems",
+		"orderMode" ],
 	"name" : "SewafBatchedComponent",
 	"pools" : [
 		 ],
