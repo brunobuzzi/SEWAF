@@ -5,7 +5,7 @@ renderRowNumber: index item: row on: html
 	tableRow := html tableRow.
 	txtDecoration := (selectedObject == row) 
 		ifFalse: ['none'] 
-		ifTrue: ['underline'].
+		ifTrue: ['text-underline'].
 	tableRow
 		style: ('text-decoration: ' , txtDecoration); 
 		with: [

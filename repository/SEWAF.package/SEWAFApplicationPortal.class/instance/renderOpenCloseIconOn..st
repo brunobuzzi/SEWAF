@@ -1,4 +1,4 @@
-other
+main layout
 renderOpenCloseIconOn: html
 	| iconSymbol |
 

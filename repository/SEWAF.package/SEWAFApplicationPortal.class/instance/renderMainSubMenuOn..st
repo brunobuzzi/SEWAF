@@ -1,5 +1,5 @@
-other
-renderTopSubMenuOn: html
+main layout
+renderMainSubMenuOn: html
 
 	selectedTab ifNil: [^self].
 	selectedTab isSubMenu ifFalse: [^self].

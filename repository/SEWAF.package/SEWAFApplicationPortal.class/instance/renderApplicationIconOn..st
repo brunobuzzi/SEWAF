@@ -1,4 +1,4 @@
-other
+main layout
 renderApplicationIconOn: html
 
 	html div id: 'top-app-icon'; with: [

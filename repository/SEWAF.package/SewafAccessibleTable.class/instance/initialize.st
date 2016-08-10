@@ -11,6 +11,8 @@ initialize
 
 	hasSortIcons := false.
 
+	sortColumnSelector := #sortColumn:orderMode:.
+
 "
 This class is used to fix some accessibility problems with the parent component:
 

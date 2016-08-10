@@ -1,4 +1,4 @@
-other
+main layout
 renderComponentOn: html
 
 	"arena ifNotNil: [arena answer]. "

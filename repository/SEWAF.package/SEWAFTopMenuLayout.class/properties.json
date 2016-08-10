@@ -6,10 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"showMainMenu",
-		"layout" ],
-	"name" : "SEWAFApplicationPortal",
+		 ],
+	"name" : "SEWAFTopMenuLayout",
 	"pools" : [
 		 ],
-	"super" : "SEWAFWebObjectPanel",
+	"super" : "SEWAFPortalLayout",
 	"type" : "normal" }

@@ -1,5 +1,5 @@
-other
-renderTopMenuOn: html
+main layout
+renderMainMenuOn: html
 
 	navigation items do: [:each | 
 		html div class: 'top-menu-item'; with: [

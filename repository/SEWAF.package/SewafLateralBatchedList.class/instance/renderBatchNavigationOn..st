@@ -11,6 +11,6 @@ renderBatchNavigationOn: html
 					class: 'batch';
 					callback: [self currentPage: index ];
 					with: index.]
-			ifTrue: [html output class: 'batch underline'; with: index].
+			ifTrue: [html output class: 'batch text-underline'; with: index].
 		]
 	]

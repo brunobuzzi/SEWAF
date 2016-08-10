@@ -11,7 +11,8 @@
 		"hasSortIcons",
 		"tableClass",
 		"informationComponent",
-		"searchSelector" ],
+		"searchSelector",
+		"sortColumnSelector" ],
 	"name" : "SewafAccessibleTable",
 	"pools" : [
 		 ],

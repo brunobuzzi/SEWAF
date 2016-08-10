@@ -1,4 +1,4 @@
-other
+main layout
 renderLogoutOn: html
 
 	html anchor class: 'smart-hide-width'; callback: [self logout]; with: [
