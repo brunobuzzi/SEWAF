@@ -50,18 +50,6 @@ body, html, main {
 /* START: BOTTOM AREA */
 /* END: BOTTOM AREA */
 
-/* START: COMPONENT AREA */
-#component-area {
-  background-color: #BCBCBC;
-  width: 100%;
-  height: 100%;
-}
-#component-area hr {
-  margin-top: 0px;
-  margin-bottom: 0px;
-}
-/* END: COMPONENT AREA */
-
 /* START: COMMON STYLES   */
 .artifact-definition {
     padding: 5px 15px 15px;

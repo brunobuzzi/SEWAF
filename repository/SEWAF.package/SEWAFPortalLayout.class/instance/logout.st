@@ -1,0 +1,4 @@
+other
+logout
+
+	^portal logout

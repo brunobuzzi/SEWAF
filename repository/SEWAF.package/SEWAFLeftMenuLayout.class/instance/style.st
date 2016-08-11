@@ -30,21 +30,25 @@ style
 #top-logout output {
   font-size: 90%;
 }
-#top-menu-area {
-  width: 80%;
-  margin-top: 5px;
+#lateral-menu-area {
+  width: 20%;
+  overflow-y: auto;
+  display: inline-block;
 }
 #top-search-show-hide-area {
   display: inline-flex; 
 }
-#top-submenu-area {
-  height: 40px;
-  background-color: lightgray;
+.lateral-menu-item {
+	background-color: white;
+	margin-top: 5px;
 }
-.top-area-close-icon {
-  float: right;
+.lateral-submenu a {
+	text-decoration: none;
+}
+
+
+.lateral-menu-close-icon {
   margin-top: 3px;
-  margin-right: 5px;
 }
 .top-menu-item {
   float: left;
@@ -168,12 +172,18 @@ style
 /* START: COMPONENT AREA */
 #component-area {
   background-color: #BCBCBC;
-  width: 100%;
   height: 100%;
+  float: right;
 }
 #component-area hr {
   margin-top: 0px;
   margin-bottom: 0px;
+}
+.component-area-width80 {
+  width: 80%;
+}
+.component-area-width100 {
+  width: 100%;
 }
 /* END: COMPONENT AREA */
 '
