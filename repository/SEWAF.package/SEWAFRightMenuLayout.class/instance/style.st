@@ -48,6 +48,7 @@ style
 	overflow-y: auto;
 	background: rgb(126, 126, 126) none repeat scroll 0% 0%;
 	border-radius: 10px;
+	float: right;
 }
 .lateral-menu-area-expanded {
 	display: inline-block;

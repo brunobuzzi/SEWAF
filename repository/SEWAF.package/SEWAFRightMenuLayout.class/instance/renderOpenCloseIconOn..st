@@ -2,7 +2,7 @@ other
 renderOpenCloseIconOn: html
 	| iconSymbol |
 
-	iconSymbol := portal showMainMenu ifTrue:[#arrowback216Png] ifFalse: [#arrownext216Png].
+	iconSymbol := portal showMainMenu ifFalse:[#arrowback216Png] ifTrue: [#arrownext216Png].
 
 	html div class: 'lateral-menu-close-icon'; with: [
 		html anchor 

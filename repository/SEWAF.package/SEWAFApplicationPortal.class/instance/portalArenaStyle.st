@@ -310,7 +310,8 @@ body, html, main {
   color: black;
 }  
 .lateral-left-list ul li {
-  margin-bottom: 10px;
+	margin-bottom: 10px;
+	margin-left: 5px;
 }
 .lateral-left-list-icon {
   width: 32px;
@@ -474,6 +475,9 @@ body, html, main {
 }
 .display-inline-block {
   display: inline-block;
+}
+.display-inline-flex {
+	display: inline-flex;
 }
 .float-left {
   float: left;

@@ -1,0 +1,4 @@
+other
+isTop
+
+	^false

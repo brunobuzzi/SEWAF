@@ -2,10 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"renderApplicationIconOn:" : "BrunoBB 08/11/2016 13:51",
+		"isLeft" : "BrunoBB 08/12/2016 07:07",
+		"nextLayout" : "BrunoBB 08/12/2016 08:24",
+		"renderApplicationIconOn:" : "BrunoBB 08/12/2016 07:29",
 		"renderContentOn:" : "BrunoBB 08/11/2016 15:02",
 		"renderLogoutOn:" : "BrunoBB 08/11/2016 13:51",
-		"renderMainMenuAreaOn:" : "BrunoBB 08/11/2016 15:05",
-		"renderMainMenuOn:" : "BrunoBB 08/11/2016 15:06",
-		"renderOpenCloseIconOn:" : "BrunoBB 08/11/2016 15:09",
-		"style" : "BrunoBB 08/11/2016 15:09" } }
+		"renderMainMenuAreaOn:" : "BrunoBB 08/12/2016 08:49",
+		"renderMainMenuOn:" : "BrunoBB 08/12/2016 07:42",
+		"renderOpenCloseIconOn:" : "BrunoBB 08/12/2016 05:45",
+		"style" : "BrunoBB 08/12/2016 08:41" } }

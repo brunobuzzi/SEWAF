@@ -4,12 +4,13 @@
 	"instance" : {
 		"applicationIcon" : "BrunoBB 08/09/2016 07:23",
 		"applicationName" : "BrunoBB 08/09/2016 07:23",
-		"initialize" : "BrunoBB 08/11/2016 15:11",
+		"initialize" : "BrunoBB 08/12/2016 08:26",
 		"initializeNavigation" : "BrunoBB 08/09/2016 07:23",
+		"isBackoffice" : "BrunoBB 08/12/2016 08:40",
 		"layout" : "BrunoBB 08/09/2016 07:23",
 		"layout:" : "BrunoBB 08/09/2016 07:23",
 		"logout" : "BrunoBB 08/09/2016 07:23",
-		"portalArenaStyle" : "BrunoBB 08/11/2016 14:34",
+		"portalArenaStyle" : "BrunoBB 08/12/2016 07:27",
 		"redirectToGitbookManual" : "BrunoBB 08/09/2016 07:23",
 		"renderApplicationIconOn:" : "BrunoBB 08/09/2016 07:23",
 		"renderBottomLayoutContentOn:" : "BrunoBB 08/11/2016 04:58",
@@ -29,4 +30,5 @@
 		"showMainMenu" : "BrunoBB 08/09/2016 07:23",
 		"showMainMenu:" : "BrunoBB 08/09/2016 07:23",
 		"style" : "BrunoBB 08/11/2016 08:15",
+		"switchLayout" : "BrunoBB 08/12/2016 08:25",
 		"versionName" : "BrunoBB 08/09/2016 07:23" } }

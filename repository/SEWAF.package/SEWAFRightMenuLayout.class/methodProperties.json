@@ -2,4 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"renderContentOn:" : "BrunoBB 08/10/2016 15:08" } }
+		"isRight" : "BrunoBB 08/12/2016 08:22",
+		"nextLayout" : "BrunoBB 08/12/2016 08:25",
+		"renderApplicationIconOn:" : "BrunoBB 08/12/2016 08:22",
+		"renderContentOn:" : "BrunoBB 08/12/2016 08:22",
+		"renderLogoutOn:" : "BrunoBB 08/12/2016 08:22",
+		"renderMainMenuAreaOn:" : "BrunoBB 08/12/2016 08:49",
+		"renderMainMenuOn:" : "BrunoBB 08/12/2016 08:22",
+		"renderOpenCloseIconOn:" : "BrunoBB 08/12/2016 08:46",
+		"style" : "BrunoBB 08/12/2016 08:42" } }
