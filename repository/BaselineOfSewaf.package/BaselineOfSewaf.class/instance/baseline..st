@@ -4,5 +4,8 @@ baseline: spec
    spec
      for: #'common'
      do: [
-       spec
-package: 'SEWAF']
+
+		spec baseline: 'Seaside3' with: [
+			spec repository: 'github://GsDevKit/Seaside31:gs_master/repository' ].
+
+       spec package: 'SEWAF']
