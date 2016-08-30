@@ -294,6 +294,14 @@ body, html, main {
 #item-customized-component ul {
   list-style-type: none;
 }
+.jquery-dialog-yes-no form fieldset {
+	border: 0px none;
+}
+.jquery-dialog-yes-no form fieldset input {
+	border-radius: 8px;
+	background-color: rgb(33, 145, 192);
+	margin-left: 20px;
+}
 .lateral-left-list {
   width: 19.5%;
   display: inline-block;
