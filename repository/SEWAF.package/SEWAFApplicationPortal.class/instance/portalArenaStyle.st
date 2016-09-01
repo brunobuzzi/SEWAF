@@ -294,13 +294,16 @@ body, html, main {
 #item-customized-component ul {
   list-style-type: none;
 }
-.jquery-dialog-yes-no form fieldset {
+.jquery-dialog-yes-no form fieldset, .jquery-dialog-yes-no fieldset {
 	border: 0px none;
 }
-.jquery-dialog-yes-no form fieldset input {
+.jquery-dialog-yes-no form fieldset input, .jquery-dialog-yes-no fieldset input {
 	border-radius: 8px;
 	background-color: rgb(33, 145, 192);
 	margin-left: 20px;
+}
+.jquery-dialog-yes-no form fieldset input[type="submit"], .jquery-dialog-yes-no fieldset input[type="submit"] {
+	float: right;
 }
 .lateral-left-list {
   width: 19.5%;
@@ -478,6 +481,9 @@ body, html, main {
 .border-radius10px {
   border-radius: 10px;
 }
+.cursor-pointer {
+	cursor: pointer !important;
+}
 .display-block {
   display: block;
 }
@@ -552,6 +558,9 @@ body, html, main {
 }
 .width-100px {
   width: 100px !important;
+}
+.width-120px {
+  width: 120px !important;
 }
 .width-250px {
   width: 250px;
