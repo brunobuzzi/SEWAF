@@ -571,8 +571,17 @@ body, html, main {
 .width-45per {
   width: 45%;
 }
-.width-50per {
-  width: 50%;
+.width-25per {
+  width: 25%;
+}
+.width-28per {
+  width: 28%;
+}
+.width-70per {
+  width: 70%;
+}
+.width-75per {
+  width: 75%;
 }
 .width-6-percent {
   width: 6%;
