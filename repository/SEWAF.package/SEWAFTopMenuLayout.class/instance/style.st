@@ -8,8 +8,12 @@ style
   background-color: gray;
   padding-top: 2px;
 }
+#top-app-icon {
+	float: left;
+}
 #top-app-icon-area {
   display: inline-flex;
+  display:inline-block;
   padding-left: 10px;
   width: 20%;
 }
@@ -24,6 +28,10 @@ style
 #top-app-version-name {
   font-size: 14px;
 }
+#top-logout {
+  width: 6%;
+  display:inline-block;
+}
 #top-logout a {
   text-decoration: none;
 }
@@ -31,8 +39,9 @@ style
   font-size: 90%;
 }
 #top-menu-area {
-  width: 80%;
+  width: 70%;
   margin-top: 5px;
+  display:inline-block;
 }
 #top-search-show-hide-area {
   display: inline-flex; 
@@ -40,11 +49,12 @@ style
 #top-submenu-area {
   height: 40px;
   background-color: lightgray;
+  margin-top: -5px;
 }
 .top-area-close-icon {
   float: right;
   margin-top: 3px;
-  margin-right: 5px;
+  margin-top: 8px;
 }
 .top-menu-item {
   float: left;
