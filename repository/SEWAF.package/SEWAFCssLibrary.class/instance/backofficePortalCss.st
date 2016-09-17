@@ -45,6 +45,7 @@ backofficePortalCss
   padding: 10px;
   border-radius: 15px;
   border: 2px solid green;
+	max-width: 250px;
 }
 #import-forms {
   overflow-y: auto;

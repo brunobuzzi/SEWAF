@@ -8,7 +8,8 @@
 	"instvars" : [
 		"itemLabel",
 		"itemIcon",
-		"command" ],
+		"command",
+		"icons" ],
 	"name" : "SewafMenuItem",
 	"pools" : [
 		 ],

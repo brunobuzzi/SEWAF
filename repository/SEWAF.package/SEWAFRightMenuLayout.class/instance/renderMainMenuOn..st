@@ -11,7 +11,7 @@ renderMainMenuOn: html
 						html div class: 'lateral-main-menu-item-txt'; with: [
 
 							html div class: 'top-menu-item-img'; with: [
-								html image url: (portal navigation iconLibrary / aSewafSubMenuItem itemIcon); 
+								html image url: (portal navigation iconLibrary / aSewafSubMenuItem getIconSize24); 
 									altText: (aSewafSubMenuItem itemLabel translateFor: self session user); 
 									title: (aSewafSubMenuItem itemLabel translateFor: self session user).
 								html span: (aSewafSubMenuItem itemLabel translateFor: self session user)."Main Menu title"

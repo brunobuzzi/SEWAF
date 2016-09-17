@@ -40,12 +40,19 @@ leftMenuLayoutCss
   font-size: 90%;
 }
 .top-menu-item-img {
-	display: inline-flex;
+	display: inline-block;
+	border-bottom: 1px solid rgb(229, 229, 229);
+	width: 100%;
+}
+.top-menu-item-img > img {
+	float: left;
 }
 .top-menu-item-img > span {
 	font-family: Arial,Tahoma;
-	font-size: 18px;
-	margin-top: 10px;
+	font-size: 16px;
+	margin-left: 5px;
+	margin-top: 5px;
+	float: left;
 }
 #lateral-menu-area {
 	overflow-y: auto;
@@ -103,8 +110,6 @@ leftMenuLayoutCss
 	padding-right: 5px;
 	padding-bottom: 5px;
 }
-
-
 .top-menu-item {
   float: left;
   margin-left: 5%;

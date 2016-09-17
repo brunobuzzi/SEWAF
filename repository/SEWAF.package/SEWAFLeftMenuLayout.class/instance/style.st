@@ -37,7 +37,6 @@ style
   font-size: 90%;
 }
 .top-menu-item-img {
-	display: inline-flex;
 }
 .top-menu-item-img > span {
 	font-family: Arial,Tahoma;
