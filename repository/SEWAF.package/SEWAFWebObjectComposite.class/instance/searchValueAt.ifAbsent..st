@@ -1,4 +1,9 @@
 other
 searchValueAt: aString ifAbsent: aBlock
+	| value |
 
-	^searchValues at: aString ifAbsent: aBlock
+	value := searchValues at: aString ifAbsent: [^aBlock value].
+
+	value ifEmpty: [^nil].
+ 
+	^value
