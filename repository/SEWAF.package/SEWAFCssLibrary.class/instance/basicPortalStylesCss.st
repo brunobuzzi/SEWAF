@@ -544,6 +544,15 @@ body, html, main {
 .margin-bottom-15px {
   margin-bottom: 15px;
 }
+.overflow-scroll {
+	overflow: scroll;
+}
+.overflowX-scroll {
+	overflow-x: scroll;
+}
+.overflowY-scroll {
+	overflow-y: scroll;
+}
 .padding-top-1px {
   padding-top: 1px;
 }

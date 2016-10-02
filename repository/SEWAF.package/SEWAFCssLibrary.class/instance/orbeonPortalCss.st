@@ -5,7 +5,8 @@ orbeonPortalCss
 #orbeon-graph {
 	display: inline-block;
 	margin-top: 15px;
-	width: 100%;
-	height: 100%;
+	width: 1600px;
+	height: 470px;
+	overflow: scroll;
 }
 '
