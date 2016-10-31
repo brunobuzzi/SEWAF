@@ -517,6 +517,9 @@ body, html, main {
 .height40per {
   height: 40%;
 }
+.height100per {
+  height: 1000%;
+}
 .margin-left-5px {
   margin-left: 5px;
 }
@@ -568,11 +571,17 @@ body, html, main {
 .width-100px {
   width: 100px !important;
 }
+.width-100per {
+  width: 100% !important;
+}
 .width-120px {
   width: 120px !important;
 }
+.width-200px {
+  width: 200px !important;
+}
 .width-250px {
-  width: 250px;
+  width: 250px !important;
 }
 .width-400px {
   width: 400px !important;
