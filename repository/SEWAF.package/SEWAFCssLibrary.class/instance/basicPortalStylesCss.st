@@ -421,6 +421,11 @@ body, html, main {
   height: 100%;
   box-shadow: 2px 2px 2px 0px rgba(11, 10, 10, 0.8) inset;
 }
+.process-query-condition {
+	height: 20px;
+	border-radius: 5px;
+	width: 200px;
+}
 .sort-buttons {
   float: initial;
   display: inline-table;
