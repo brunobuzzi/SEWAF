@@ -543,6 +543,9 @@ body, html, main {
 .margin-top-10px {
   margin-top: 10px;
 }
+.margin-top-35px {
+  margin-top: 35px;
+}
 .margin-bottom-5px {
   margin-bottom: 5px !important;
 }
