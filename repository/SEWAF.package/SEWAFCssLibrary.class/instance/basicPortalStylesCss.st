@@ -523,10 +523,13 @@ body, html, main {
   height: 40%;
 }
 .height100per {
-  height: 1000%;
+  height: 100%;
 }
 .margin-left-5px {
   margin-left: 5px;
+}
+.margin-right-5px {
+  margin-right: 5px !important;
 }
 .margin-right-20px {
   margin-right: 20px;
@@ -537,11 +540,17 @@ body, html, main {
 .margin-top-20px {
   margin-top: 20px !important;
 }
+.margin-top-25px {
+  margin-top: 25px !important;
+}
 .margin-top-15px {
-  margin-top: 15px;
+  margin-top: 15px !important;
 }
 .margin-top-10px {
   margin-top: 10px;
+}
+.margin-top-5px {
+  margin-top: 5px !important;
 }
 .margin-top-35px {
   margin-top: 35px;
