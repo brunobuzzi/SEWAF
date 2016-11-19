@@ -25,8 +25,8 @@ backofficePortalCss
   width: 300px;
 }
 #bpm-report-graph {
-	height: 800px;
-	width: 800px;
+	height: 1000px;
+	width: 1500px;
 }
 
 #forms-operations {
