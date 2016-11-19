@@ -1,4 +1,4 @@
-lateral list
+subclass responsibility
 getCurrentCollection
 
 	self subclassResponsibility

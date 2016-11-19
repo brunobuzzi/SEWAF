@@ -1,4 +1,4 @@
-other
+subclass responsibility
 getTextForItem: aLateralListItem
 
 	self subclassResponsibility

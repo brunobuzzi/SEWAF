@@ -24,6 +24,11 @@ backofficePortalCss
 #applications-list select {
   width: 300px;
 }
+#bpm-report-graph {
+	height: 800px;
+	width: 800px;
+}
+
 #forms-operations {
   float: left;
   width: 200px;

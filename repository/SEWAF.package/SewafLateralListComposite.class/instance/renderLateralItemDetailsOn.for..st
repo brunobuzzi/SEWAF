@@ -1,4 +1,4 @@
-lateral list
+subclass responsibility
 renderLateralItemDetailsOn: html for: aLateralItem
 
 	self subclassResponsibility

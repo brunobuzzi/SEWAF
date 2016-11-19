@@ -1,6 +1,9 @@
 other
 componentValueAt: aString ifAbsent: aBlock
+	| cValue |
 
-	^(componentValues at: aString ifAbsent: [^aBlock value]) 
-			ifEmpty: [aBlock value] 
-			ifNotEmpty: [:value | value]
+	cValue := componentValues at: aString ifAbsent: [^aBlock value].
+
+	^(cValue isKindOf: Collection)
+		ifTrue: [cValue ifEmpty: [aBlock value] ifNotEmpty: [:value | value]] 
+		ifFalse: [cValue]
