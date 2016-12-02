@@ -11,5 +11,6 @@ renderRowNumber: index item: row on: html
 						title: 'Click to Select';
 						callback:  [:value | parent perform: callbackSelector with: row with: value]; ""
 						value: bool.
-			columns do: [ :each |
-				self renderColumn: each row: row on: html ]]].
+			].
+				columns do: [ :each | self renderColumn: each row: row on: html].
+		].
