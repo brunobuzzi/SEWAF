@@ -57,9 +57,30 @@ backofficePortalCss
   display: inline-block;
   width: 100%;
   bottom: 0px;
-  position: absolute;
   max-height: 100%;
   top: 112px;
+  margin-top: 10px;
+}
+.information-xpdl-import {
+	background-color: #898a8a;
+	border-radius: 10px;
+	padding: 15px;
+	margin-top: 20px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+.information-xpdl-import  div {
+	font-size: 20px;
+}
+.information-xpdl-import output strong {
+	font-size: 20px;
+}
+.information-xpdl-import span {
+	display: inherit;
+}
+.information-xpdl-import span strong {
+	font-style: italic;
+	color: white;
 }
 #internationalization {
 }
