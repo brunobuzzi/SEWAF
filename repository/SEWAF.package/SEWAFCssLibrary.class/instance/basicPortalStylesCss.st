@@ -531,6 +531,9 @@ body, html, main {
 .margin-right-5px {
   margin-right: 5px !important;
 }
+.margin-right-10px {
+  margin-right: 10px !important;
+}
 .margin-right-20px {
   margin-right: 20px;
 }

@@ -204,26 +204,6 @@ rightMenuLayoutCss
   font-weight: bold;
   text-decoration: underline;
 }
-#top-search-filters-one {
-  display: inline-block;
-  width: 200px;
-  margin-top: -5px;
-}
-#top-search-filters-two {
-  display: inline-block;
-  width: 200px;
-  margin-top: -15px;
-}
-#top-search-filters-one input {
-  border-radius: 6px;
-  margin-right: 20px;
-  border-color: #A9A9A9;
-}
-#top-search-filters-two input {
-  border-radius: 6px;
-  margin-right: 20px;
-  border-color: #A9A9A9;
-}
 .top-search-filters-one {
   display: inline-block;
   width: 200px;
