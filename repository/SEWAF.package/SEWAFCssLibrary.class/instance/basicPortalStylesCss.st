@@ -528,6 +528,9 @@ body, html, main {
 .margin-left-5px {
   margin-left: 5px;
 }
+.margin-left-10px {
+  margin-left: 10px;
+}
 .margin-right-5px {
   margin-right: 5px !important;
 }
