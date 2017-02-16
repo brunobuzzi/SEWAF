@@ -1,7 +1,7 @@
 jquery
 renderPromptDialogOn: html information: aString promptLabel: promptLabel buttonLabel: buttonLabel actionMethod: actionMethod  arguments: arguments
 
-	html div class: 'jquery-dialog-yes-no'; with: [
+	html div "class: 'jquery-dialog-yes-no';" with: [
 		html form with: [
 			html fieldSet with: [
 				html legend: aString.
