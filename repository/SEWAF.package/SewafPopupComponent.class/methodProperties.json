@@ -1,0 +1,15 @@
+{
+	"class" : {
+		"on:" : "BrunoBB 02/16/2017 12:34",
+		"parent:on:" : "BrunoBB 02/16/2017 12:34" },
+	"instance" : {
+		"addValue:named:" : "BrunoBB 02/16/2017 12:36",
+		"arguments" : "BrunoBB 02/16/2017 12:34",
+		"arguments:" : "BrunoBB 02/16/2017 12:34",
+		"componentValueAt:" : "BrunoBB 02/16/2017 12:36",
+		"componentValueAt:ifAbsent:" : "BrunoBB 02/16/2017 12:36",
+		"initialize" : "BrunoBB 02/16/2017 12:36",
+		"initializeComponentValues" : "BrunoBB 02/16/2017 12:36",
+		"model" : "BrunoBB 02/16/2017 12:34",
+		"model:" : "BrunoBB 02/16/2017 12:34",
+		"removeValueNamed:" : "BrunoBB 02/16/2017 12:36" } }
