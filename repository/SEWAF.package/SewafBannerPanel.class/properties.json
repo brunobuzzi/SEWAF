@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SewafBannerPanel",
+	"pools" : [
+		 ],
+	"super" : "SewafMainWindowComponent",
+	"type" : "normal" }

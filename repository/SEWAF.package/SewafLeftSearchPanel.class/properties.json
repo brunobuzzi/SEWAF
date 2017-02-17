@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SewafLeftSearchPanel",
+	"pools" : [
+		 ],
+	"super" : "SewafSearchPanel",
+	"type" : "normal" }
