@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "SewafLateralMenuPanel",
+	"name" : "SewafMainMenuPanel",
 	"pools" : [
 		 ],
-	"super" : "SewafMainMenuPanel",
+	"super" : "SewafMainWindowSubComponent",
 	"type" : "normal" }

@@ -6,12 +6,10 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"bannerPanel",
-		"searchPanel",
-		"lateralPanel",
+		"mainMenuPanel",
 		"componentPanel",
 		"footPanel" ],
-	"name" : "SewafMainWindow",
+	"name" : "SewafAbstractMainWindow",
 	"pools" : [
 		 ],
 	"super" : "SewafApplicationPanel",
