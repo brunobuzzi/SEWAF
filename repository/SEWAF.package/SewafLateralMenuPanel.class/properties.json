@@ -10,5 +10,5 @@
 	"name" : "SewafLateralMenuPanel",
 	"pools" : [
 		 ],
-	"super" : "SewafMainWindowComponent",
+	"super" : "SewafMainWindowSubComponent",
 	"type" : "normal" }

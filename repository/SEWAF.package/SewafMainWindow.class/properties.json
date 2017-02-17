@@ -1,0 +1,18 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bannerPanel",
+		"searchPanel",
+		"lateralPanel",
+		"componentPanel",
+		"footPanel" ],
+	"name" : "SewafMainWindow",
+	"pools" : [
+		 ],
+	"super" : "SewafApplicationPanel",
+	"type" : "normal" }

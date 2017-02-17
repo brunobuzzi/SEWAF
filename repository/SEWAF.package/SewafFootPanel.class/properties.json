@@ -10,5 +10,5 @@
 	"name" : "SewafFootPanel",
 	"pools" : [
 		 ],
-	"super" : "SewafMainWindowComponent",
+	"super" : "SewafMainWindowSubComponent",
 	"type" : "normal" }

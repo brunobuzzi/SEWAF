@@ -10,5 +10,5 @@
 	"name" : "SewafBannerPanel",
 	"pools" : [
 		 ],
-	"super" : "SewafMainWindowComponent",
+	"super" : "SewafMainWindowSubComponent",
 	"type" : "normal" }

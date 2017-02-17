@@ -7,8 +7,8 @@
 	"commentStamp" : "",
 	"instvars" : [
 		 ],
-	"name" : "SewafComponentPanel",
+	"name" : "SewafApplicationPanel",
 	"pools" : [
 		 ],
-	"super" : "SewafMainWindowSubComponent",
+	"super" : "WAComponent",
 	"type" : "normal" }
