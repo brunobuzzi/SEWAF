@@ -127,7 +127,6 @@ body, html, main {
 }
 .centered-unique-form fieldset {
   margin-bottom: 5px;
-  border: none;
 }
 .centered-unique-form h1 {
   margin: 0 0 30px 0;
