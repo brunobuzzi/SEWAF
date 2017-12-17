@@ -530,6 +530,12 @@ body, html, main {
 .margin-left-10px {
   margin-left: 10px;
 }
+.margin-left-15px {
+  margin-left: 15px;
+}
+.margin-left-20px {
+  margin-left: 20px;
+}
 .margin-right-5px {
   margin-right: 5px !important;
 }
