@@ -7,7 +7,7 @@ renderRadioButtonsDialogOn: html buttonsNames: buttonsNames forActionNamed: acti
 		html form with: [
 			html fieldSet with: [
 				html radioGroup
-					callback: [:value | self addValue: value named: actionName. self perform: actionMethod  withArguments: arguments];
+					callback: [:value | self addValue: value named: actionName. self perform: actionMethod withArguments: arguments];
 					with: [ :group |
 								buttonsNames do: [:eachArray | 
 									html label: [group radioButton value: eachArray last. "option value"
