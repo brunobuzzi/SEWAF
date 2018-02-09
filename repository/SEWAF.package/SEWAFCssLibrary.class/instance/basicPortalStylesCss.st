@@ -444,6 +444,13 @@ body, html, main {
 .table-search-element form fieldset input[type="submit"], .table-search-element fieldset input[type="submit"]{
     margin-top: 0px;
 }
+.timer-block-code {
+	border-radius: 10px;
+	margin: 20px;
+	padding: 15px;
+	font-size: 20px;
+	background-color: #80A0BD;
+}
 .unique-centered-table {
   margin-left: auto;
   margin-right: auto;
