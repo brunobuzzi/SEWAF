@@ -32,6 +32,7 @@ rightMenuLayoutCss
 #top-logout {
 	float: right;
 	margin-right: 20px;
+	display: flex;
 }
 #top-logout a {
   text-decoration: none;
