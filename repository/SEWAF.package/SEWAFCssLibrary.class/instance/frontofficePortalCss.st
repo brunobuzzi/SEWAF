@@ -87,7 +87,7 @@ frontofficePortalCss
   float: right;
 }
 #free-tasks-list {
-  overflow-y: auto;
+
 }
 #free-tasks-list ul {
   list-style-type: none;
