@@ -6,7 +6,7 @@ topMenuLayoutCss
 	self frontofficePortalCss,
 '/* START: TOP AREA */
 #top-area {
-  display: inline-flex;
+  display: inline-block;
   width: 100%;
   background-color: gray;
   padding-top: 2px;
@@ -16,9 +16,8 @@ topMenuLayoutCss
 }
 #top-app-icon-area {
   display: inline-flex;
-  display:inline-block;
   padding-left: 10px;
-  width: 20%;
+  float: left;
 }
 #top-app-icon-area h1{
   margin-top: 5px;
@@ -32,8 +31,9 @@ topMenuLayoutCss
   font-size: 14px;
 }
 #top-logout {
-  width: 6%;
-  display:inline-block;
+	float: right;
+	margin-right: 20px;
+	margin-top: -4px;
 }
 #top-logout a {
   text-decoration: none;
@@ -42,9 +42,7 @@ topMenuLayoutCss
   font-size: 90%;
 }
 #top-menu-area {
-  width: 70%;
   margin-top: 5px;
-  display:inline-block;
 }
 #top-search-show-hide-area {
   display: inline-flex; 
