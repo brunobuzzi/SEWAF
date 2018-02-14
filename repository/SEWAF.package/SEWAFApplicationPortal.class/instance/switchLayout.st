@@ -1,4 +1,9 @@
 style
 switchLayout
 
-	layout := layout nextLayout
+	layout := layout nextLayout.
+
+	self initializeNavigation.
+
+	selectedTab := nil.
+	selectedSubTab := nil.

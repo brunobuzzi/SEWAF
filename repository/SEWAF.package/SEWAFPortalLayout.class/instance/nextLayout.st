@@ -1,0 +1,4 @@
+other
+nextLayout
+
+	self subclassResponsibility
