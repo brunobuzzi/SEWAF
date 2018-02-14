@@ -174,6 +174,51 @@ topMenuLayoutCss
   float: left;
   margin-right: 10px;
 }
+#lateral-navigation {
+	display: inline-flex;
+}
+.lateral-menu-item {
+	background-color: white;
+	margin-top: 5px;
+	list-style: none;
+	border-radius: 5px;
+	padding: 15px;
+	margin-right: 25px;
+}
+.lateral-main-menu-item-txt li {
+	padding-left: 10px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+.lateral-main-menu-item-txt > span {
+	background: rgb(226, 227, 229) none repeat scroll 0% 0%;
+	padding: 5px;
+	border-radius: 5px;
+}
+.lateral-submenu a {
+	text-decoration: none;
+}
+.lateral-submenu a span {
+	color: #4a4a4a;
+}
+.lateral-menu-close-icon {
+  margin-top: 3px;
+}
+.home-menu-item-img {
+	display: inline-block;
+	border-bottom: 1px solid rgb(229, 229, 229);
+	width: 100%;
+}
+.home-menu-item-img > img {
+	float: left;
+}
+.home-menu-item-img > span {
+	font-family: Arial,Tahoma;
+	font-size: 16px;
+	margin-left: 5px;
+	margin-top: 5px;
+	float: left;
+}
 /*END: SEARCH AREA*/
 
 /* START: COMPONENT AREA */
