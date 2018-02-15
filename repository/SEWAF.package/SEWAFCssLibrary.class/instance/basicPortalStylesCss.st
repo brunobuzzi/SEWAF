@@ -450,6 +450,16 @@ body, html, main {
 	font-size: 20px;
 	background-color: #80A0BD;
 }
+.timer-last-execution {
+	border-radius: 10px;
+	margin: 20px;
+	padding: 15px;
+	font-size: 20px;
+	background-color: gray;
+	text-align: center;
+	width: 90px;
+	display: inline-block;
+}
 .unique-centered-table {
   margin-left: auto;
   margin-right: auto;
