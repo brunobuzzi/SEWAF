@@ -61,6 +61,18 @@ backofficePortalCss
   top: 112px;
   margin-top: 10px;
 }
+#imported-processes {
+	display: inline-flex;
+}
+.imported-process {
+	border-radius: 10px;
+	background: gray;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 10px;
+	margin: 15px;
+}
 .information-xpdl-import {
 	background-color: #898a8a;
 	border-radius: 10px;
