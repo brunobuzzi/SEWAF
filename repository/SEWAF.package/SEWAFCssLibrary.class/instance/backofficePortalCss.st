@@ -70,6 +70,9 @@ backofficePortalCss
 	font-size: 20px;
 	font-style: italic;
 }
+#imported-processes-confirmation {
+	margin-top: 65px;
+}
 .imported-process {
 	border-radius: 10px;
 	background: gray;
