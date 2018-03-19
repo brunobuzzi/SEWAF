@@ -424,6 +424,18 @@ body, html, main {
 	border-radius: 5px;
 	width: 200px;
 }
+.process-viewer-selector {}
+.process-viewer-selector a {
+	display: block;
+	padding: 15px;
+	text-align: center;
+	text-decoration: none;
+}
+.process-viewer-selector a img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
 .sort-buttons {
   float: initial;
   display: inline-table;
