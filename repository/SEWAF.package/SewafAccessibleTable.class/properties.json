@@ -12,7 +12,9 @@
 		"tableClass",
 		"informationComponent",
 		"searchSelector",
-		"sortColumnSelector" ],
+		"sortColumnSelector",
+		"batchedList",
+		"searchApplied" ],
 	"name" : "SewafAccessibleTable",
 	"pools" : [
 		 ],

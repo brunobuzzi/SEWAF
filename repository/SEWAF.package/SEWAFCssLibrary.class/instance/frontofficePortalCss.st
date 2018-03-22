@@ -11,6 +11,10 @@ frontofficePortalCss
   margin-bottom: 15px;
   margin-top: 10px;
   text-decoration: underline;
+   display: inline-flex;
+}
+.assignation-title a {
+	padding-left: 10px;
 }
 .centered-forms {
   margin-left: 1%;

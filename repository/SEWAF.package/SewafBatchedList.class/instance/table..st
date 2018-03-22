@@ -1,4 +1,6 @@
 other
 table: aSewafTable
+ 
+	originalTable := aSewafTable.
 
-	originalTable := aSewafTable
+	originalTable batchedList: self.

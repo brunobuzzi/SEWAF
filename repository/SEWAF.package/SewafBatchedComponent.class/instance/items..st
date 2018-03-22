@@ -1,4 +1,4 @@
 Updating
 items: newValue
 
-	items := newValue asOrderedCollection
+	items := newValue asOrderedCollection.

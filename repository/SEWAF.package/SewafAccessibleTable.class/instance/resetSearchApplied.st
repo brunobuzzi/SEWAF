@@ -1,0 +1,4 @@
+other
+resetSearchApplied
+
+	searchApplied := false

@@ -10,6 +10,7 @@ initialize
 	tableClass := ''.
 
 	hasSortIcons := false.
+	searchApplied := false.
 
 	sortColumnSelector := #sortColumn:orderMode:.
 
