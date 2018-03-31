@@ -38,6 +38,21 @@ backofficePortalCss
   margin-left: 10px;
   margin-bottom: 10px;
 }
+#immutable-import-exception {
+	width: 40%;
+	margin: 0 auto;
+	background-color: #eaeca6;
+	border-radius: 15px;
+	padding: 10px;
+	display: grid;
+
+}
+#immutable-import-exception strong {
+	color: red;
+}
+#immutable-import-exception output {
+	margin: 5px;
+}
 .import-all-button-1 {
   padding: 10px;
 }
