@@ -76,6 +76,10 @@ backofficePortalCss
   top: 112px;
   margin-top: 10px;
 }
+#import-reset {
+	float: left;
+	padding-left: 5px;
+}
 #imported-processes {
 	display: inline-flex;
 }
