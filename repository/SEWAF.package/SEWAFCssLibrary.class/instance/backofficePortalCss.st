@@ -83,6 +83,15 @@ backofficePortalCss
 #imported-processes {
 	display: inline-flex;
 }
+#imported-processes-sucessful {
+	font-size: 25px;
+	background-color: beige;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	color: darkgreen;
+	text-align: center;
+}
 #imported-processes-title {
 	margin-left: 15px;
 	margin-top: 15px;
