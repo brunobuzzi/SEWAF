@@ -1,8 +1,12 @@
 other
 renderLanguageFlagsOn: html
+	| languageFlagsIconsAndNames |
 
-	self languageFlagsIconsAndNames do: [:arrayOfThree | 
-		html div class: 'flag'; with: [
+	languageFlagsIconsAndNames := self languageFlagsIconsAndNames.
+
+	languageFlagsIconsAndNames do: [:arrayOfThree | | cssClasses |
+		cssClasses := (languageFlagsIconsAndNames last == arrayOfThree) ifTrue: ['flag flag-last'] ifFalse: ['flag'].
+		html div class: cssClasses; with: [
 			html anchor callback: [selectedLanguage := arrayOfThree third]; with: [
 				html image url: (SEWAFIconLibrary / arrayOfThree first); 
 					style: 'filter: grayscale(', ((selectedLanguage = arrayOfThree third) ifTrue:['0%'] ifFalse: ['85%']), ');';

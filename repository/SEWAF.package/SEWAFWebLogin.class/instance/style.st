@@ -2,7 +2,7 @@ other
 style
 
 	^'
-h1 {margin-left: 20%;}
+h1 {margin-left: 35px;}
 body {
 	margin-bottom: 25px !important;
 	background-color: darkgrey;
@@ -16,18 +16,21 @@ body {
 .flag {
 	float: left;
 }
+.flag-last {
+	margin-right: 10px;
+}
 #login {
 	border-radius: 25px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-    width: 50%; 
+    width: 380px; 
     margin: 0 auto;
 	background-color: lightblue;
 }
 #login form{
     width:50%;
 	background-color: lightblue;
-	margin-left: 20%;
+	margin-left: 35px;
 }
 #login form p {
 	color: darkred;
@@ -39,28 +42,28 @@ body {
 }
 #user-div input {
 	border-radius: 15px;
-	float: right;
 	width: 200px;
+	display: block;
 }
 #user-div label {
-	float: left;
+	display: block;
 }
 #password-div {
 	display: inline-block;
 	width: 80%;
 }
 #password-div label {
-	float: left;
+	display: block;
 }
 #password-div input {
 	border-radius: 15px;
-	float: right;
+	display: block;
 	width: 200px;
 }
 #login-button {
-	float: right;
+	display: block;
+	margin-top: 10px;
 }
 #login-button input {
 	border-radius: 8px;
-	margin-right: -20px;
 }'
