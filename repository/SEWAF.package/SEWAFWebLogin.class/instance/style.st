@@ -8,7 +8,9 @@ body {
 	background-color: darkgrey;
 }
 #flags {
-	float: right;
+	display: flex;
+	margin: 0 auto;
+	width: 170px;
 }
 #flags img {
 	margin-right: 5px;
@@ -21,10 +23,10 @@ body {
 }
 #login {
 	border-radius: 25px;
-	padding-top: 20px;
+	padding-top: 5px;
 	padding-bottom: 20px;
-    width: 380px; 
-    margin: 0 auto;
+	width: 380px;
+	margin: 0 auto;
 	background-color: lightblue;
 }
 #login form{
@@ -42,11 +44,12 @@ body {
 }
 #user-div input {
 	border-radius: 15px;
-	width: 200px;
+	width: 290px;
 	display: block;
 }
 #user-div label {
 	display: block;
+	margin-left: 8px;
 }
 #password-div {
 	display: inline-block;
@@ -54,11 +57,12 @@ body {
 }
 #password-div label {
 	display: block;
+	margin-left: 8px;
 }
 #password-div input {
 	border-radius: 15px;
 	display: block;
-	width: 200px;
+	width: 290px;
 }
 #login-button {
 	display: block;
