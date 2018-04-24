@@ -175,6 +175,12 @@ body, html, main {
   margin-top: 20px;
   border-radius: 10px;
 }
+.default-gray-table-title {
+	margin-bottom: -10px;
+	margin-top: 15px;
+	margin-left: 15px;
+	font-size: 22px;
+}
 .default-gray-table table {
   color:black;
   font-size:18px;
