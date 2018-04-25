@@ -13,6 +13,7 @@ topMenuLayoutCss
 }
 #top-app-icon {
 	float: left;
+	margin-right: 5px;
 }
 #top-app-icon-area {
   display: inline-flex;

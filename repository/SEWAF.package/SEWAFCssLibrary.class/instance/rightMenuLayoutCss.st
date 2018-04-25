@@ -40,6 +40,9 @@ rightMenuLayoutCss
 #top-logout output {
   font-size: 90%;
 }
+#top-app-icon {
+	margin-right: 5px;
+}
 .top-menu-item-img {
 	display: inline-block;
 	border-bottom: 1px solid rgb(229, 229, 229);
