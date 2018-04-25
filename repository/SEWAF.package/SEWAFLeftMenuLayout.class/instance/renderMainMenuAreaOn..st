@@ -6,8 +6,7 @@ renderMainMenuAreaOn: html
 		with: [
 			html div id: 'top-app-icon-area'; class: 'smart-hide-width'; with: [self renderApplicationIconOn: html].
 			html div id: 'top-logout'; 
-				with: [self renderInternalInboxIconOn: html.
-						self renderLayoutIconOn: html.
+				with: [self renderLayoutIconOn: html.
 						self renderLogoutOn: html.]
 	].
 

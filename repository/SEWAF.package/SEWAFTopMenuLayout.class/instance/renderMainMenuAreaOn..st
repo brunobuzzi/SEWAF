@@ -7,7 +7,6 @@ renderMainMenuAreaOn: html
 			html div id: 'top-menu-area'; with: [self renderMainMenuOn: html].
 			html div id: 'top-logout'; 
 				with: [self renderLogoutOn: html.
-						self renderInternalInboxIconOn: html.
 						self renderLayoutIconOn: html.
 						]
 	].

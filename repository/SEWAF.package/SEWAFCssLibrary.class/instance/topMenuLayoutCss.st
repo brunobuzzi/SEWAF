@@ -25,7 +25,7 @@ topMenuLayoutCss
   color: gainsboro;
 }
 #top-app-name {
-  font-size: 30px;
+  font-size: 25px;
   color: gainsboro;
 }
 #top-app-version-name {
@@ -60,7 +60,7 @@ topMenuLayoutCss
 }
 .top-menu-item {
   float: left;
-  margin-left: 5%;
+  margin-left: 4.5%;
 }
 .top-menu-item a {
   color: white;
