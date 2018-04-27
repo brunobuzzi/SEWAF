@@ -422,6 +422,12 @@ body, html, main {
 .max-width-td {
   max-width: 600px;
 }
+.message-list-recipients {
+	border-style: outset;
+	padding: 5px;
+	margin: 5px;
+	border-width: 1px;
+}
 #process-definition {
   height: 100%;
   box-shadow: 2px 2px 2px 0px rgba(11, 10, 10, 0.8) inset;
