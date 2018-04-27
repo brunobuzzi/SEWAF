@@ -610,6 +610,10 @@ body, html, main {
 .margin-bottom-15px {
   margin-bottom: 15px;
 }
+.message-body {
+	width: 70%;
+	padding: 20px;
+}
 .overflow-scroll {
 	overflow: scroll;
 }
@@ -663,6 +667,9 @@ body, html, main {
 }
 .width-75per {
   width: 75%;
+}
+.width-100per {
+  width: 100%;
 }
 .width-6-percent {
   width: 6%;
