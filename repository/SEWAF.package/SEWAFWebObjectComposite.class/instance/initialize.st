@@ -7,3 +7,5 @@ initialize
 	searchApplied := false.
 	searchValues := Dictionary new.
 	componentValues := Dictionary new.
+
+	self initializeReverseTranslation.
