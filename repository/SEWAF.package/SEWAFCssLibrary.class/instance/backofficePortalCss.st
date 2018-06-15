@@ -27,8 +27,19 @@ backofficePortalCss
 #bpm-report-graph {
 	height: 1000px;
 	width: 1500px;
+	display: contents;
 }
-
+#bpm-report-bottom-options form {
+	border-radius: 10px;
+	background-color: darkgray;
+	margin: 10px;
+	width: 250px;
+	border-style: inset;
+	border-width: 1px;
+}
+#bpm-report-bottom-options form fieldset {
+	border: 0;
+}
 #forms-operations {
   float: left;
   width: 200px;

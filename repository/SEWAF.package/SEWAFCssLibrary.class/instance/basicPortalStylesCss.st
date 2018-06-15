@@ -565,6 +565,9 @@ body, html, main {
 .height100per {
   height: 100%;
 }
+.margin-left-2px {
+  margin-left: 2px;
+}
 .margin-left-5px {
   margin-left: 5px;
 }
