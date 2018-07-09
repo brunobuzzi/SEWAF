@@ -644,6 +644,9 @@ body, html, main {
 .width-15px {
   width: 15px;
 }
+.width-50px {
+  width: 50px !important;
+}
 .width-100px {
   width: 100px !important;
 }
