@@ -1,4 +1,4 @@
-other
+component variables
 hasComponentValueAt: aString
 
 	^componentValues includesKey: aString

@@ -1,4 +1,4 @@
-other
+component variables
 componentValueAt: aString ifAbsent: aBlock
 	| cValue |
 

@@ -1,4 +1,4 @@
-other
+search variables
 searchValueAt: aString
 	| value |
 

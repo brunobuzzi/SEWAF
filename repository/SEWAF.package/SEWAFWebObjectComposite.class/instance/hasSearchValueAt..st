@@ -1,4 +1,4 @@
-other
+search variables
 hasSearchValueAt: aString
 
 	^(self searchValueAt: aString)
