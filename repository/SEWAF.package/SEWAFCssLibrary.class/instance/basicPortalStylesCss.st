@@ -423,6 +423,7 @@ body, html, main {
   max-width: 600px;
 }
 .message-list-recipients {
+	/*border-style: outset;*/
 	padding: 5px;
 	margin: 5px;
 	border-width: 1px;
