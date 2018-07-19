@@ -10,7 +10,7 @@
 		"htmlAttributes",
 		"hasSortIcons",
 		"tableClass",
-		"informationComponent",
+		"informationComponents",
 		"searchSelector",
 		"sortColumnSelector",
 		"batchedList",

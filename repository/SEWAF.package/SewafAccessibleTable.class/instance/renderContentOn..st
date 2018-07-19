@@ -9,6 +9,6 @@ renderContentOn: html
 		"html tableFoot: [ self renderTableFooterOn: html ]."
 		html tableBody: [ self renderRowsOn: html ] ].
 
-	informationComponent ifNotNil: [
-		html div with: [html render: informationComponent].
+	informationComponents do: [:infoComponent |
+		html div with: [html render: infoComponent].
 	].

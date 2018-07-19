@@ -1,6 +1,4 @@
-rendering
+info components
 information: aString color: colorString
 
-	informationComponent ifNil: [informationComponent := SewafInformComponent parent: self].
-
-	informationComponent information: aString color: colorString
+	self atInformationComponent: 1 put: aString withColor: colorString

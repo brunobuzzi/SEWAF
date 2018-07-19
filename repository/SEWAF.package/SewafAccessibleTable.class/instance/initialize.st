@@ -14,6 +14,8 @@ initialize
 
 	sortColumnSelector := #sortColumn:orderMode:.
 
+	informationComponents := OrderedCollection new.
+
 "
 This class is used to fix some accessibility problems with the parent component:
 

@@ -1,4 +1,4 @@
-rendering
+info components
 closeInformation
 
-	informationComponent := nil.
+	informationComponents := OrderedCollection new.
