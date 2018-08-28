@@ -1,0 +1,4 @@
+other
+numberOfInformationComponents
+
+	^originalTable numberOfInformationComponents
