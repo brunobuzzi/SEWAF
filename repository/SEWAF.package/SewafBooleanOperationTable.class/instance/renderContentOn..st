@@ -13,6 +13,7 @@ renderContentOn: html
 					"html legend with: 'Confirmar Selección'."
 					operations do: [:each | html submitButton callback: [parent perform: each first]; with: each second].].
 
-		informationComponent ifNotNil: [
-			html div with: [html render: informationComponent]].
+		informationComponents do: [:infoComponent |
+			html div with: [html render: infoComponent].
+		].
 	].

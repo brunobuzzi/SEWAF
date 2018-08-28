@@ -12,7 +12,7 @@ renderContentOn: html
 				html legend with: buttonTitle.
 				html submitButton callback: [self answer]; with: buttonLabel].
 
-		informationComponent ifNotNil: [
-			html div with: [html render: informationComponent].
+		informationComponents do: [:infoComponent |
+			html div with: [html render: infoComponent].
 		].
 	]
