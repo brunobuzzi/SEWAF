@@ -37,6 +37,20 @@ body {
 #login form p {
 	color: darkred;
 }
+#environment-div {
+	display: inline-block;
+	width: 80%;
+}
+#environment-div label {
+	display: block;
+	margin-left: 8px;
+}
+#environment-div select {
+	border-radius: 15px;
+	display: block;
+	width: 290px;
+    height: 25px;
+}
 #user-div {
 	margin-bottom: 5px;
 	display: inline-block;
@@ -54,6 +68,7 @@ body {
 #password-div {
 	display: inline-block;
 	width: 80%;
+	margin-bottom: 5px;
 }
 #password-div label {
 	display: block;

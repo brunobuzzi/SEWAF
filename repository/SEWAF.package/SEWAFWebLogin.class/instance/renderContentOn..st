@@ -16,11 +16,12 @@ renderContentOn: html
 								html label attributeAt: 'for' put: 'password'; with: ('Password' translateTo: selectedLanguage).
 								html passwordInput attributeAt: 'id' put: 'password'; callback: [:value | password := value]
 							].
+							html div id: 'environment-div'; with: [self renderEnvironmentComboOn: html].
 							html div id: 'login-button'; with: [
 								html submitButton callback: [self tryLogin];
 									with: ('Login' translateTo: selectedLanguage)].
 								(loginAttempts > 0) ifTrue: [html break.
-									html paragraph with: ('Incorrect User or Password ('  translateTo: selectedLanguage), loginAttempts printString, ')']
+									html paragraph with: ('Incorrect User, Password or Environment ('  translateTo: selectedLanguage), loginAttempts printString, ')']
 						]
 					]
 				].
