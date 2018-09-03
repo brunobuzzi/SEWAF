@@ -40,6 +40,11 @@ backofficePortalCss
 #bpm-report-bottom-options form fieldset {
 	border: 0;
 }
+#enviroment-applications-title {
+	font-size: 25px;
+	padding-left: 15px;
+	padding-top: 10px;
+}
 #forms-operations {
   float: left;
   width: 200px;
