@@ -26,6 +26,11 @@ style
 	padding-top: 15px;
 	padding-left: 5px;
 }
+#top-environment-name {
+    padding-top: 12px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
 #top-logout {
 	float: right;
 	margin-right: 20px;

@@ -8,5 +8,6 @@ renderApplicationIconOn: html
 
 	html div with: [
 		html div id: 'top-app-name'; with: [html text: portal applicationName].
+		html div id: 'top-environment-name'; with: [html strong: self session bpmEnvironment name].
 		html div id: 'top-app-version-name'; with: [html text: portal versionName].
 	].
