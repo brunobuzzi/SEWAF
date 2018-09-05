@@ -43,6 +43,7 @@ backofficePortalCss
 #environment-applications {
 	width: 65%;
 	display: inline-block;
+    padding-top: 5px;
 }
 #environment-users {
 	width: 35%;
