@@ -8,5 +8,6 @@ renderMainMenuAreaOn: html
 			html div id: 'top-logout'; 
 				with: [self renderLogoutOn: html.
 						self renderLayoutIconOn: html.
+						portal renderSwitchPortalIconsOn: html.
 						]
 	].

@@ -2,7 +2,7 @@ other
 renderLogoutOn: html
 
 	html anchor class: 'smart-hide-width'; callback: [self logout]; with: [
-		html image url: (SEWAFIconLibrary / #logout32Png); 
+		html image url: (SEWAFIconLibrary / #userinterfacelogout24Png); 
 			altText: ('Logout from Application' translateFor: self session user); 
 			title: ('Logout from Application' translateFor: self session user).
 	].

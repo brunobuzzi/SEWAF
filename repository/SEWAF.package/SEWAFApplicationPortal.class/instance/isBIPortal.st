@@ -1,4 +1,4 @@
 other
-isBackoffice
+isBIPortal
 
 	^false
