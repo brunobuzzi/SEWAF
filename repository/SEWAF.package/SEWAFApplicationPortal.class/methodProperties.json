@@ -4,6 +4,7 @@
 	"instance" : {
 		"applicationIcon" : "brunobb 10/02/2018 03:08",
 		"applicationName" : "brunobb 10/02/2018 03:08",
+		"getPortalParents" : "brunobb 10/02/2018 03:30",
 		"initialize" : "brunobb 10/02/2018 03:08",
 		"initializeNavigation" : "brunobb 10/02/2018 03:08",
 		"isBIPortal" : "brunobb 10/02/2018 03:08",
@@ -36,4 +37,5 @@
 		"showMainMenu" : "brunobb 10/02/2018 03:08",
 		"showMainMenu:" : "brunobb 10/02/2018 03:08",
 		"switchLayout" : "brunobb 10/02/2018 03:08",
+		"switchToApplication:" : "brunobb 10/02/2018 03:45",
 		"versionName" : "brunobb 10/02/2018 03:08" } }
