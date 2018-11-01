@@ -14,4 +14,4 @@ switchToApplication: sewafPortalClass
 	allParents do: [:portal | 
 		(portal class == sewafPortalClass) ifTrue: [^self].
 		portal answer.
-		]
+		].
