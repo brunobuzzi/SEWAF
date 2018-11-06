@@ -73,13 +73,12 @@ backofficePortalCss
   margin-bottom: 10px;
 }
 #immutable-import-exception {
-	width: 40%;
-	margin: 0 auto;
-	background-color: #eaeca6;
-	border-radius: 15px;
 	padding: 10px;
+	margin: 10px;
+	text-align: center;
+	background-color: beige;
+	border-radius: 15px;
 	display: grid;
-
 }
 #immutable-import-exception strong {
 	color: red;
@@ -134,6 +133,23 @@ backofficePortalCss
 }
 #imported-processes-confirmation {
 	margin-top: 65px;
+}
+#imported-processes-failed {
+	font-size: 25px;
+	background-color: beige;
+	border-radius: 10px;
+	padding: 10px;
+	margin: 10px;
+	color: red;
+	text-align: center;
+}
+#imported-processes-failed span output {
+	font-size: 18px;
+	padding: 10px;
+	margin: 10px;
+	color: black;
+	text-align: center;
+	display: block;
 }
 .imported-process {
 	border-radius: 10px;
