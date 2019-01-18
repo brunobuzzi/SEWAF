@@ -457,8 +457,12 @@ body, html, main {
 	width: 200px;
 	height: 200px;
 }
-.process-map-scaled output {
+.process-map-scaled a {text-decoration: none}
+.process-map-scaled a output {
 	font-size: larger;
+}
+.process-map-selected {
+    margin: 5px;
 }
 .process-viewer-selector {}
 .process-viewer-selector a {
