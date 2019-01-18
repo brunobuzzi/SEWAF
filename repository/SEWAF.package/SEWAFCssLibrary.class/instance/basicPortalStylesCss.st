@@ -452,6 +452,14 @@ body, html, main {
 	border-radius: 5px;
 	width: 200px;
 }
+.process-map-scaled {
+	margin: 10px;
+	width: 200px;
+	height: 200px;
+}
+.process-map-scaled output {
+	font-size: larger;
+}
 .process-viewer-selector {}
 .process-viewer-selector a {
 	display: block;
