@@ -1,4 +1,0 @@
-other
-tryLogin
-
-	self subclassResponsibility

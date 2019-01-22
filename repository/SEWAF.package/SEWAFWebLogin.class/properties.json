@@ -9,7 +9,9 @@
 		"name",
 		"password",
 		"loginAttempts",
-		"selectedLanguage" ],
+		"selectedLanguage",
+		"user",
+		"loginFailed" ],
 	"name" : "SEWAFWebLogin",
 	"pools" : [
 		 ],

@@ -1,6 +1,8 @@
 other
 renderContentOn: html
 
+	user ifNotNil: [^self renderSelectEnvironmentPaneOn: html].
+
 	html div id: 'flags'; with: [self renderLanguageFlagsOn: html].
 	html div id: 'login';
 		with: [
