@@ -41,20 +41,23 @@ backofficePortalCss
 	border: 0;
 }
 #environment-applications {
-	width: 65%;
+	width: 55%;
 	display: inline-block;
     padding-top: 5px;
 }
 #environment-users {
-	width: 35%;
+	width: 45%;
 	display: inline-block;
 }
-#enviroment-applications-title {
+#environment-applications-title {
 	font-size: 25px;
 	padding-left: 30%;
 	padding-top: 10px;
 }
-#enviroment-users-title {
+#environment-svg {
+	height: 60px
+}
+#environment-users-title {
 	font-size: 25px;
 	padding-left: 30%;
 	padding-top: 10px;
