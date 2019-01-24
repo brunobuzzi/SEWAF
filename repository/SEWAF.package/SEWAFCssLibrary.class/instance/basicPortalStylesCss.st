@@ -559,6 +559,9 @@ body, html, main {
 .display-block {
   display: block;
 }
+.display-flex {
+  display: flex;
+}
 .display-inline-block {
   display: inline-block;
 }
