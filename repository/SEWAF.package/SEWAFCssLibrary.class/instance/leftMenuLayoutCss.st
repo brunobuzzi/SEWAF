@@ -67,6 +67,10 @@ leftMenuLayoutCss
 	overflow-y: auto;
 	background: rgb(126, 126, 126) none repeat scroll 0% 0%;
 	border-radius: 10px;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 1px;
+    padding: 10px;
 }
 .lateral-menu-area-expanded {
 	display: inline-block;
@@ -241,8 +245,8 @@ leftMenuLayoutCss
 /* START: COMPONENT AREA */
 #component-area {
   background-color: #BCBCBC;
-  height: 100%;
-  float: right;
+  width: 100%;
+  padding-top: 10px;
 }
 #component-area hr {
   margin-top: 0px;

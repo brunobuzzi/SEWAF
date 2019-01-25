@@ -14,5 +14,3 @@ renderMainMenuAreaOn: html
 	lateralMenuClass := portal showMainMenu ifTrue: ['lateral-menu-area-expanded'] ifFalse: ['lateral-menu-area-collapsed'].
 
 	(portal showMainMenu and: [portal isBackofficePortal]) ifTrue: [lateralMenuClass := lateralMenuClass , ' lateral-menu-area-height700' ].
-
-	html div id: 'lateral-menu-area'; class: lateralMenuClass;with: [self renderMainMenuOn: html].
