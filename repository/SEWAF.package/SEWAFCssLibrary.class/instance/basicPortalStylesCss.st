@@ -577,6 +577,9 @@ body, html, main {
 .float-right {
   float: right;
 }
+.height24 {
+  height: 24px;
+}
 .height180 {
   height: 180px;
 }

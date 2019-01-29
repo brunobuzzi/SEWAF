@@ -1,6 +1,5 @@
 other
 renderMainMenuAreaOn: html
-	| lateralMenuClass |
 
 	html div id: 'top-area'; class: 'smart-hide-height'; 
 		with: [
@@ -10,7 +9,3 @@ renderMainMenuAreaOn: html
 						portal renderSwitchPortalIconsOn: html.
 						self renderLogoutOn: html.]
 	].
-
-	lateralMenuClass := portal showMainMenu ifTrue: ['lateral-menu-area-expanded'] ifFalse: ['lateral-menu-area-collapsed'].
-
-	(portal showMainMenu and: [portal isBackofficePortal]) ifTrue: [lateralMenuClass := lateralMenuClass , ' lateral-menu-area-height700' ].
