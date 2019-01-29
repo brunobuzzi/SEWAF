@@ -50,20 +50,6 @@ body, html, main {
 /* END: BOTTOM AREA */
 
 /* START: COMMON STYLES   */
-.artifact-definition {
-    padding: 5px 15px 15px;
-    float: left;
-    margin: 10px;
-    border-radius: 10px;
-    background-color: #868686;
-    width: 20%;
-    height: 20%;
-    overflow-y: auto;
-}
-#artifact-definitions {
-    display: inline-block;
-    width: 100%;
-}
 .batch {
   border-radius: 5px;
   padding: 5px;
@@ -86,14 +72,6 @@ body, html, main {
   margin-top: 10px;
   margin-bottom: -8px;
   margin-left: 5px;
-}
-.calendar-year {
-	display: inline-block;
-	border-radius: 10px;
-    padding-left: 15px;
-    padding-right: 15px;
-    padding-top: 5px;
-    padding-bottom: 6px;
 }
 .calendar-year a {text-decoration: none;}
 .calendar-year-selected {background-color: #80a0bd}
