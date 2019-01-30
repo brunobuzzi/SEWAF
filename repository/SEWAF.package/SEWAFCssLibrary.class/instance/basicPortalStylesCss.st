@@ -442,18 +442,6 @@ body, html, main {
 .process-map-selected {
     margin: 5px;
 }
-.process-viewer-selector {}
-.process-viewer-selector a {
-	display: block;
-	padding: 15px;
-	text-align: center;
-	text-decoration: none;
-}
-.process-viewer-selector a img {
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
-}
 .sort-buttons {
   float: initial;
   display: inline-table;
@@ -489,32 +477,6 @@ body, html, main {
 	text-align: center;
 	width: 90px;
 	display: inline-block;
-}
-.unique-centered-table {
-  margin-left: auto;
-  margin-right: auto;
-  border: 2px solid #000;
-  border-radius: 10px;
-  margin-top: 30px;
-}
-.unique-centered-table-width30 {
-  width: 30%;
-}
-.unique-centered-table-width70 {
-  width: 70%;
-}
-.unique-centered-table  table {
-  width: 100%;
-}
-.unique-centered-table fieldset {
-  border: 0px none;
-  margin-left: auto;
-  margin-right: auto;
-  width: 150px;
-  margin-top: 20px;
-}
-.unique-centered-table fieldset  input {
-  border-radius: 10px
 }
 #users-to-add {
   float: left;
