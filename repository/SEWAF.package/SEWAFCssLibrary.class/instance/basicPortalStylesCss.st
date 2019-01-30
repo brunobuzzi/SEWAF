@@ -490,9 +490,6 @@ body, html, main {
 /* END: COMMON STYLES   */
 
 /* START: BASIC COMPONENT STYLES */
-.border-radius10px {
-  border-radius: 10px;
-}
 .cursor-pointer {
 	cursor: pointer !important;
 }
@@ -523,20 +520,8 @@ body, html, main {
 .height180 {
   height: 180px;
 }
-.height250 {
-  height: 250px;
-}
-.height300 {
-  height: 300px;
-}
 .height350 {
   height: 350px;
-}
-.height40per {
-  height: 40%;
-}
-.height100per {
-  height: 100%;
 }
 .margin-left-2px {
   margin-left: 2px;
@@ -547,12 +532,6 @@ body, html, main {
 .margin-left-10px {
   margin-left: 10px;
 }
-.margin-left-15px {
-  margin-left: 15px;
-}
-.margin-left-20px {
-  margin-left: 20px;
-}
 .margin-right-5px {
   margin-right: 5px !important;
 }
@@ -562,14 +541,8 @@ body, html, main {
 .margin-right-20px {
   margin-right: 20px;
 }
-.margin-right-20per {
-  margin-right: 20%;
-}
 .margin-top-20px {
   margin-top: 20px !important;
-}
-.margin-top-25px {
-  margin-top: 25px !important;
 }
 .margin-top-15px {
   margin-top: 15px !important;
@@ -583,27 +556,9 @@ body, html, main {
 .margin-top-35px {
   margin-top: 35px;
 }
-.margin-bottom-5px {
-  margin-bottom: 5px !important;
-}
-.margin-bottom-10px {
-  margin-bottom: 10px;
-}
-.margin-bottom-15px {
-  margin-bottom: 15px;
-}
 .message-body {
 	width: 70%;
 	padding: 20px;
-}
-.overflow-scroll {
-	overflow: scroll;
-}
-.overflowX-scroll {
-	overflow-x: scroll;
-}
-.overflowY-scroll {
-	overflow-y: scroll;
 }
 .padding-top-1px {
   padding-top: 1px;
@@ -617,9 +572,6 @@ body, html, main {
 .width-15px {
   width: 15px;
 }
-.width-50px {
-  width: 50px !important;
-}
 .width-100px {
   width: 100px !important;
 }
@@ -632,14 +584,8 @@ body, html, main {
 .width-200px {
   width: 200px !important;
 }
-.width-250px {
-  width: 250px !important;
-}
 .width-400px {
   width: 400px !important;
-}
-.width-45per {
-  width: 45%;
 }
 .width-25per {
   width: 25%;
