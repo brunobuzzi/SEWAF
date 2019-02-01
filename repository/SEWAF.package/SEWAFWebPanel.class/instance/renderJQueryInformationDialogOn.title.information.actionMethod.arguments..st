@@ -9,7 +9,7 @@ renderJQueryInformationDialogOn: html title: dialogTitle information: informatio
 		resizable: true;
 		modal: true;
 		width: 500;
-         title: (dialogTitle translateFor: self session user);
+         title: (dialogTitle translateIn: self session);
          autoOpen: false);
       with: [ self renderInformationDialogOn: html information: information actionMethod: actionMethod arguments: arguments].
 

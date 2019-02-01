@@ -5,11 +5,11 @@ renderPromptDialogOn: html information: aString promptLabel: promptLabel buttonL
 		html form with: [
 			html fieldSet with: [
 				html legend: aString.
-				html label for: 'prompt'; with: (promptLabel translateFor: self session user).
+				html label for: 'prompt'; with: (promptLabel translateIn: self session).
 				html textInput id: 'prompt'; callback: [:value | self addValue: value named: 'prompt']. 
 				html submitButton 
 					callback: [self perform: actionMethod withArguments: arguments];
-					with: (buttonLabel translateFor: self session user).
+					with: (buttonLabel translateIn: self session).
 			]
 		]
 	]

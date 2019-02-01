@@ -1,3 +1,3 @@
 public
 title
-	^(title translateFor: self session user)
+	^(title translateIn: self session)

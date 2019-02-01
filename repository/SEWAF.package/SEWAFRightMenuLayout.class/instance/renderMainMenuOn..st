@@ -12,17 +12,17 @@ renderMainMenuOn: html
 
 							html div class: 'top-menu-item-img'; with: [
 								html image url: (portal navigation iconLibrary / aSewafSubMenuItem getIconSize24); 
-									altText: (aSewafSubMenuItem itemLabel translateFor: self session user); 
-									title: (aSewafSubMenuItem itemLabel translateFor: self session user).
-								html span: (aSewafSubMenuItem itemLabel translateFor: self session user)."Main Menu title"
+									altText: (aSewafSubMenuItem itemLabel translateIn: self session); 
+									title: (aSewafSubMenuItem itemLabel translateIn: self session).
+								html span: (aSewafSubMenuItem itemLabel translateIn: self session)."Main Menu title"
 							].
 							aSewafSubMenuItem items do:  [:aSewafCommandItem | 
 								html listItem class: 'lateral-submenu'; with: [
 									html anchor 
 										callback: [portal selectedSubTab: aSewafCommandItem]; 
 										with: [(portal selectedSubTab == aSewafCommandItem) "Sub menu title"
-													ifFalse: [html span: (aSewafCommandItem itemLabel translateFor: self session user)]
-													ifTrue: [html span with:[html strong: (aSewafCommandItem itemLabel translateFor: self session user)]]
+													ifFalse: [html span: (aSewafCommandItem itemLabel translateIn: self session)]
+													ifTrue: [html span with:[html strong: (aSewafCommandItem itemLabel translateIn: self session)]]
 									].
 								].
 							].

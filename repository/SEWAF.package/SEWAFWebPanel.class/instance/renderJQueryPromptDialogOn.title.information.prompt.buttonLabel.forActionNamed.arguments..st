@@ -8,7 +8,7 @@ renderJQueryPromptDialogOn: html title: titleString information: information pro
 		draggable: true;
 		resizable: true;
 		modal: true;
-         title: (titleString translateFor: self session user);
+         title: (titleString translateIn: self session);
          autoOpen: false);
       with: [self renderPromptDialogOn: html information: information promptLabel: prompt buttonLabel: buttonLabel actionMethod: actionName arguments: anArray].
 

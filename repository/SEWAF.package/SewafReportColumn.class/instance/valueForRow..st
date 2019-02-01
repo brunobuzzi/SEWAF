@@ -6,4 +6,4 @@ valueForRow: row
 
 	(value isString or: [value isKindOf: Boolean]) ifFalse: [^value].
 
-	^value asString translateFor: self session user
+	^value asString translateIn: self session

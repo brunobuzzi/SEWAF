@@ -8,7 +8,7 @@ renderJQueryConfirmationDialogOn2: html forActionNamed: actionName actionMethod:
 		draggable: true;
 		resizable: true;
 		modal: true;
-         title: ('Confirm Delete ?' translateFor: self session user);
+         title: ('Confirm Delete ?' translateIn: self session);
          autoOpen: false);
       with: [self renderYesNoDialogOn2: html forActionNamed: actionName actionMethod: actionMethod].
 

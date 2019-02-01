@@ -7,7 +7,7 @@ renderInformationDialogOn: html information: aString buttonLabel: buttonLabel ac
 				html output: aString.
 				html submitButton 
 					callback: [self perform: actionMethod withArguments: arguments];
-					with: (buttonLabel translateFor: self session user).
+					with: (buttonLabel translateIn: self session).
 			]
 		]
 	]

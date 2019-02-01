@@ -194,6 +194,10 @@ backofficePortalCss
   border-radius: 10px;
   margin-right: 15px;
 }
+#internationalization-switch {
+	margin: 5px;
+}
+
 #inter-current-dictionary {
   height: 480px;
   margin-left: auto;

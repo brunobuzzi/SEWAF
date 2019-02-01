@@ -7,5 +7,5 @@ renderShowLateralListIconOn: html
 	html div class: 'hide-lateral-left-list'; with: [
 		html anchor callback: [showLateralList := showLateralList not];
 			with: [html image url: (SEWAFIconLibrary / iconSymbol); 
-						altText: ('Toggle Lateral List' translateFor: self session user);
-						title: ('Toggle Lateral List' translateFor: self session user)].].
+						altText: ('Toggle Lateral List' translateIn: self session);
+						title: ('Toggle Lateral List' translateIn: self session)].].

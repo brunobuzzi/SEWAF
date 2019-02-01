@@ -10,7 +10,7 @@ renderJQuerySelectOptionDialogOn: html buttonsNames: buttonsNames forActionNamed
 		modal: true;
 		width: aPoint x;
 		height: aPoint y;
-         title: ('Select One Option' translateFor: self session user);
+         title: ('Select One Option' translateIn: self session);
          autoOpen: false);
       with: [self renderRadioButtonsDialogOn: html buttonsNames: buttonsNames forActionNamed: actionName actionMethod: actionMethod arguments: arguments].
 

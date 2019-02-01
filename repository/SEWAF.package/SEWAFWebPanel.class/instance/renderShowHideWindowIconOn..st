@@ -14,8 +14,8 @@ renderShowHideWindowIconOn: html
 			with: [
 				html div with: [
 					html image url: (SEWAFIconLibrary / iconSymbol); 
-						altText: ('Show Hide Search Area' translateFor: self session user); 
-						title: ('Show Hide Search Area' translateFor: self session user).
+						altText: ('Show Hide Search Area' translateIn: self session); 
+						title: ('Show Hide Search Area' translateIn: self session).
 				].
 		].
 	].

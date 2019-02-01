@@ -10,7 +10,7 @@ renderJQueryPopupCompositeOn: html width: width height: height composite: webCom
 		draggable: true;
 		resizable: true;
 		modal: true;
-         title: (titleString translateFor: self session user);
+         title: (titleString translateIn: self session);
          autoOpen: false);
       with: [self renderPopupCompositeOn: html composite: webCompositeClass title: titleString domainObject: aDomainObject arguments: arguments].
 

@@ -8,7 +8,7 @@ renderJQueryConfirmationDialogOn: html title: popUpTitle forActionNamed: actionN
 		draggable: true;
 		resizable: true;
 		modal: true;
-         title: (popUpTitle translateFor: self session user);
+         title: (popUpTitle translateIn: self session);
          autoOpen: false);
       with: [self renderYesNoDialogOn: html forActionNamed: actionName actionMethod: actionMethod].
 

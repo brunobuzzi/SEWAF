@@ -11,9 +11,9 @@ renderRadioButtonsDialogOn: html buttonsNames: buttonsNames forActionNamed: acti
 					with: [ :group |
 								buttonsNames do: [:eachArray | 
 									html label: [group radioButton value: eachArray last. "option value"
-									html text: (eachArray first translateFor: self session user)].]. "option label"
+									html text: (eachArray first translateIn: self session)].]. "option label"
 					].
-				html submitButton with: ('Confirm' translateFor: self session user).
+				html submitButton with: ('Confirm' translateIn: self session).
 			]
 		] 
 	]

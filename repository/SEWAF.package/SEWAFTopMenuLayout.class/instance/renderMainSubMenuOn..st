@@ -10,7 +10,7 @@ renderMainSubMenuOn: html
 			html div class: subItemClass; with: [
 				html anchor 
 					callback: [portal selectedSubTab: each]; 
-					with: [html output: (each itemLabel translateFor: self session user)].
+					with: [html output: (each itemLabel translateIn: self session)].
 			].
 		].
 	].

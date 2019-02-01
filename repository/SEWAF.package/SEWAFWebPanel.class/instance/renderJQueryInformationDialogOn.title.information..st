@@ -8,7 +8,7 @@ renderJQueryInformationDialogOn: html title: dialogTitle information: informatio
 		draggable: true;
 		resizable: true;
 		modal: true;
-         title: (dialogTitle translateFor: self session user);
+         title: (dialogTitle translateIn: self session);
          autoOpen: false);
       with: [ self renderInformationDialogOn: html information: information].
 
