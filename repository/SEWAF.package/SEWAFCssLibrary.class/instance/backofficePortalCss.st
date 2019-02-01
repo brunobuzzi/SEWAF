@@ -65,7 +65,6 @@ backofficePortalCss
 #environment-users-table {
 	padding-left: 25%;
 }
-
 #forms-operations {
   float: left;
   width: 200px;
