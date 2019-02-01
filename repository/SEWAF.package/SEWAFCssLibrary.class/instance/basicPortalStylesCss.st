@@ -73,6 +73,14 @@ body, html, main {
   margin-bottom: -8px;
   margin-left: 5px;
 }
+.calendar-year {
+	display: inline-block;
+	border-radius: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+    padding-bottom: 6px;
+}
 .calendar-year a {text-decoration: none;}
 .calendar-year-selected {background-color: #80a0bd}
 .calendar-year-unselected {background-color: white}
