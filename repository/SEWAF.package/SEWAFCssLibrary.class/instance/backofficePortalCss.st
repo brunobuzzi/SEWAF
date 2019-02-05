@@ -255,20 +255,5 @@ backofficePortalCss
 #users-to-add-to-role input[type="submit"] {
   margin-top: 20px;
 }
-.transition-condition {
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 40px;
-  padding-right: 40px;
-  background-color: lightgray;
-  border-radius: 30px;
-}
-.transition-def-artifact {
-    padding-top: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
-    background-color: #868686;
-    border-radius: 10px;
-}
 /* END: BACK OFFICE STYLES */
 '
