@@ -21,9 +21,6 @@ frontofficePortalCss
   margin-right: 2%;
   margin-top: 1%;
 }
-.centered-forms-width38 {
-  width: 38%;
-}
 .centered-forms form { 
   border-radius: 10px;
   border-style: inset;
@@ -87,11 +84,7 @@ frontofficePortalCss
   border-radius: 15%;
   background-color: #F5F5DC;
 }
-.free-selected-process {
-  float: right;
-}
 #free-tasks-list {
-
 }
 #free-tasks-list ul {
   list-style-type: none;
@@ -122,12 +115,6 @@ frontofficePortalCss
   float: right;
   display: inline;
 }
-.monitor-list-icon-height75 {
-  height: 75px;
-}
-.monitor-list-icon-height90 {
-  height: 110px;
-}
 .monitor-list-item-data {}
 .monitor-list-item-data span {
   font-style: italic;
@@ -147,16 +134,8 @@ frontofficePortalCss
 .monitor-list-item-summary span {
   font-style: italic;
 }
-.new-process-options {
-    width: 50%;
-    float: left;
-}
 #new-process-options-form {
   display: inline-flex;
-}
-#new-process-list  ul {
-  list-style-type: none;
-  margin-top: 0px;
 }
 #orbeon-form-frame {
   height: 400px;
@@ -167,12 +146,6 @@ frontofficePortalCss
 #orbeon-form iframe {
   width: 100%;
   height: 100%;
-}
-#process-assigment-transitions {
-  margin-left: 10px;
-  margin-top: 10px;
-  overflow-y: auto;
-  height: 440px;
 }
 .process-transition-icon-collapse {
   float: right;
@@ -227,17 +200,6 @@ frontofficePortalCss
 .transition-data output  {
   color: rgb(50, 51, 122);
   float: right;
-}
-.unique-wide-list-icon {
-  width: 2.5%;
-  float: left;
-  display: inline;
-}
-.unique-wide-list-icon-height75 {
-  height: 75px;
-}
-.unique-wide-list-icon-height90 {
-  height: 110px;
 }
 .unique-wide-list-item-data {}
 .unique-wide-list-item-data span {
