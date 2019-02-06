@@ -71,20 +71,6 @@ rightMenuLayoutCss
     margin-right: 1px;
     padding: 10px;
 }
-.lateral-menu-area-expanded {
-	display: inline-block;
-	padding: 10px;
-	margin-top: 5px;
-	margin-left: 2px;
-}
-.lateral-menu-area-collapsed {
-	padding: 2px;
-	margin-top: 5px;
-	margin-left: 2px;
-}
-.lateral-menu-area-height700 {
-	height: 700px;
-}
 #top-search-show-hide-area {
   display: inline-flex; 
 }
@@ -122,8 +108,6 @@ rightMenuLayoutCss
 	padding-right: 5px;
 	padding-bottom: 5px;
 }
-
-
 .top-menu-item {
   float: left;
   margin-left: 5%;
@@ -235,12 +219,6 @@ rightMenuLayoutCss
   margin-right: 20px;
   border-color: #A9A9A9;
 }
-.top-search-vertical-line {
-  width: 8px;
-  background-color: lightgray;
-  float: left;
-  margin-right: 10px;
-}
 /*END: SEARCH AREA*/
 
 /* START: COMPONENT AREA */
@@ -252,12 +230,6 @@ rightMenuLayoutCss
 #component-area hr {
   margin-top: 0px;
   margin-bottom: 0px;
-}
-.component-area-width80 {
-  width: 84%;
-}
-.component-area-width100 {
-  width: 100%;
 }
 /* END: COMPONENT AREA */
 '
