@@ -169,12 +169,6 @@ topMenuLayoutCss
   margin-right: 20px;
   border-color: #A9A9A9;
 }
-.top-search-vertical-line {
-  width: 8px;
-  background-color: lightgray;
-  float: left;
-  margin-right: 10px;
-}
 #lateral-navigation {
 	display: inline-flex;
 }
