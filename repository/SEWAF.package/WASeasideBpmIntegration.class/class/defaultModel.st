@@ -1,4 +1,0 @@
-other
-defaultModel
-
-	^self subclassResponsibility

@@ -1,4 +1,0 @@
-other
-processDefinition
-
-	^taskInstance processDefinition
