@@ -1,0 +1,4 @@
+other
+enableJsEnhacements
+
+	isJsEnhacementsEnabled := true

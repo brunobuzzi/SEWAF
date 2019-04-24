@@ -7,3 +7,4 @@ initialize
 	searchResult := OrderedCollection new.
 	showLateralList := true.
 	searchPanelName := #search.
+	isJsEnhacementsEnabled := true.

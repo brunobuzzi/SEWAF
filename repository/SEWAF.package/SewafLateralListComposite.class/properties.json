@@ -11,7 +11,8 @@
 		"selectedLateralItem",
 		"showLateralList",
 		"searchPanelName",
-		"batchedList" ],
+		"batchedList",
+		"isJsEnhacementsEnabled" ],
 	"name" : "SewafLateralListComposite",
 	"pools" : [
 		 ],
