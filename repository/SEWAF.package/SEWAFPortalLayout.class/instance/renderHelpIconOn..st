@@ -5,7 +5,7 @@ renderHelpIconOn: html
 
 	portal arena ifNotNil: [
 		html anchor 
-			class: 'float-right';
+			"class: 'float-right';"
 			target: '_blank';
 			callback: [self redirectToGitbookManual];
 			with: [

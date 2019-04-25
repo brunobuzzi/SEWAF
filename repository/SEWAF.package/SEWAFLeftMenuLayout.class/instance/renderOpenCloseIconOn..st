@@ -9,8 +9,8 @@ renderOpenCloseIconOn: html
 			callback: [portal showMainMenu: portal showMainMenu not];
 			with: [
 				html image url: (SEWAFIconLibrary / iconSymbol); 
-					altText: 'Toggle Window'; 
-					title: 'Toggle Window'.
+					altText: ('Expand/Collapse' translateIn: self session); 
+					title: ('Expand/Collapse' translateIn: self session).
 		].
 		self renderHelpIconOn: html.
 	].

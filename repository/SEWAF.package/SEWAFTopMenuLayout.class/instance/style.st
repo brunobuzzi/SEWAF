@@ -44,7 +44,8 @@ style
   display:inline-block;
 }
 #top-search-show-hide-area {
-  display: inline-flex; 
+    display: inline-flex; 
+	margin-top: 2px;
 }
 #top-submenu-area {
   height: 40px;

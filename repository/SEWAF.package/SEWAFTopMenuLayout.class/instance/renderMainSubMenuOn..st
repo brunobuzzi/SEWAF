@@ -14,4 +14,8 @@ renderMainSubMenuOn: html
 			].
 		].
 	].
+	html script: self jsExpandCollapseTopArea, self jsSetExpandCollapseTopAreaIcon, self jsExpandCollapseInitTopArea.
+
 	self renderOpenCloseIconOn: html.
+
+	html script: 'setExpandCollapseTopAreaIcon(); initTopArea()'.
