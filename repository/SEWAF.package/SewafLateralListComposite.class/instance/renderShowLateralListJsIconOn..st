@@ -5,6 +5,7 @@ renderShowLateralListJsIconOn: html
 		html anchor 
 			class: 'cursor-pointer';
 			onClick: 'expandCollapseLateralList(); setExpandCollapseLateralIcon()'; 
-			with: [html image id: 'collapseLateralListIcon']].
+			with: [html image id: 'collapseLateralListIcon'].
+	].
 
 	html script: 'setExpandCollapseLateralIcon()'.

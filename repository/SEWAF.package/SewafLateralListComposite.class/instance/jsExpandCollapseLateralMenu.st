@@ -1,5 +1,5 @@
 javascript
-jsExpandCollapse
+jsExpandCollapseLateralMenu
 	| jsStream |
 
 	jsStream := WriteStream on: String new.
@@ -17,6 +17,6 @@ jsExpandCollapse
 		document.getElementById("process-definition").style.width=null;
 	}
   } else {}
-}'.
+};'.
 
 	^jsStream contents

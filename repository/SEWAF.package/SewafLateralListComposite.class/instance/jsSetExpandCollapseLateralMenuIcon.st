@@ -1,5 +1,5 @@
 javascript
-jsSetExpandCollapseIconProperties
+jsSetExpandCollapseLateralMenuIcon
 	| jsStream iconTiltle |
 
 	jsStream := WriteStream on: String new.
@@ -19,6 +19,6 @@ jsSetExpandCollapseIconProperties
 		document.getElementById("collapseLateralListIcon").title=''', iconTiltle, ''';
 	}
   } else {}
-}'.
+};'.
 
 	^jsStream contents

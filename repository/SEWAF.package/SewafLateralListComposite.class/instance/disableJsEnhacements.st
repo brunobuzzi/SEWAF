@@ -1,4 +1,4 @@
-other
+javascript
 disableJsEnhacements
 
 	isJsEnhacementsEnabled := false

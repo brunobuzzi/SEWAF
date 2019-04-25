@@ -1,4 +1,4 @@
-other
+lateral list
 hasSelectedLateralItem
 
 	^selectedLateralItem notNil
