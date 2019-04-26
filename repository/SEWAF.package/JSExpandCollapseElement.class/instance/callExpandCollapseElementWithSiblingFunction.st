@@ -1,0 +1,4 @@
+other
+callExpandCollapseElementWithSiblingFunction
+
+	functionallitiesToCall at: #expandCollapseWithSibling put: true

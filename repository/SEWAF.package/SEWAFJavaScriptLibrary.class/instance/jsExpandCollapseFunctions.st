@@ -13,7 +13,7 @@ jsExpandCollapseFunctions
 
 function expandCollapse(id, storageId,expandStyleOptions,collapseStyleOptions) {
   if (typeof(Storage) !== "undefined") {
-    if ((localStorage.getItem(storageId) == "expanded") || (localStorage.getItem("topArea") == null)) {
+    if ((localStorage.getItem(storageId) == "expanded") || (localStorage.getItem(storageId) == null)) {
 		setDisplayOptionsTo(id,collapseStyleOptions);
 		localStorage.setItem(storageId,"collapsed"); 
 	} else {
@@ -21,12 +21,6 @@ function expandCollapse(id, storageId,expandStyleOptions,collapseStyleOptions) {
 		localStorage.setItem(storageId,"expanded"); 
 	}
   } else {}
-};
-
-function setDisplayOptionsTo(elementId,styleOptions) {
-	for (var styleName in styleOptions) {
-  		document.getElementById(elementId).style[styleName] = styleOptions[styleName];
-	}
 };
 
 function initExpandCollapseIcon(iconId, storageId, title, expandIcon, collapseIcon) {
@@ -41,4 +35,10 @@ function initExpandCollapseIcon(iconId, storageId, title, expandIcon, collapseIc
 		document.getElementById(iconId).title=title;
 	}
   } else {}
+};
+
+function setDisplayOptionsTo(elementId,styleOptions) {
+	for (var styleName in styleOptions) {
+  		document.getElementById(elementId).style[styleName] = styleOptions[styleName];
+	}
 };'
