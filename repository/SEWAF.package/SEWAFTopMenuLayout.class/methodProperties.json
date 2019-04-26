@@ -2,6 +2,7 @@
 	"class" : {
 		 },
 	"instance" : {
+		"createExpandCollapseJsObject" : "brunobb 04/26/2019 10:49",
 		"cssFileName" : "BrunoBB 09/05/2016 15:43",
 		"isTop" : "BrunoBB 08/12/2016 07:07",
 		"jsExpandCollapseInitTopArea" : "brunobb 04/25/2019 12:49",
@@ -13,6 +14,6 @@
 		"renderLogoutOn:" : "brunobb 01/31/2019 09:32",
 		"renderMainMenuAreaOn:" : "brunobb 10/01/2018 11:37",
 		"renderMainMenuOn:" : "brunobb 01/31/2019 09:46",
-		"renderMainSubMenuOn:" : "brunobb 04/25/2019 12:47",
-		"renderOpenCloseIconOn:" : "brunobb 04/25/2019 12:43",
+		"renderMainSubMenuOn:" : "brunobb 04/26/2019 10:38",
+		"renderOpenCloseIconOn:" : "brunobb 04/26/2019 10:42",
 		"style" : "brunobb 04/25/2019 12:58" } }

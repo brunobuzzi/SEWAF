@@ -1,0 +1,22 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"ecElementId",
+		"storageName",
+		"imageId",
+		"imageTitle",
+		"expandIcon",
+		"collapseIcon",
+		"expandStyleOptions",
+		"collapseStyleOptions",
+		"functionallitiesToCall" ],
+	"name" : "JSExpandCollapseElement",
+	"pools" : [
+		 ],
+	"super" : "JSObject",
+	"type" : "normal" }

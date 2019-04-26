@@ -1,14 +1,16 @@
 other
 renderOpenCloseIconOn: html
-	| iconSymbol |
+	| jsEcElement |
 
-	iconSymbol := portal showMainMenu ifTrue:[#arrowsupcircular16Png] ifFalse: [#arrowsdowncircular16Png].
+	jsEcElement := self createExpandCollapseJsObject.
+	jsEcElement callInitIconFunction; callExpandCollapseElementFunction.
 
 	html div class: 'top-area-close-icon'; with: [
 		self renderHelpIconOn: html.
 		html anchor 
 			class: 'cursor-pointer';
 			"callback: [portal showMainMenu: portal showMainMenu not];"
-			onClick: 'expandCollapseTopMenuArea();setExpandCollapseTopAreaIcon()';
+			"onClick: 'expandCollapseTopMenuArea();setExpandCollapseTopAreaIcon()';"
+			onClick: jsEcElement;
 			with: [html image id: 'top-area-expand-collapse-icon'].
 	].
