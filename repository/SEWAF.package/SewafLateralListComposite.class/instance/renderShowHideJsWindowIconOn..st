@@ -10,8 +10,3 @@ renderShowHideJsWindowIconOn: html
 			class: 'cursor-pointer';
 			onClick: jsEcElement;
 			with: [html image id: 'top-seach-expand-collapse-icon']].
-
-"	jsEcElement := self createEcSearchAreaJsObject.
-	jsEcElement callInitIconFunction; callInitElementFunction;callInitElementSiblingFunction.
-
-	html script: jsEcElement."
