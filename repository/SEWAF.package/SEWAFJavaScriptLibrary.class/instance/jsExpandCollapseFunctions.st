@@ -4,9 +4,9 @@ jsExpandCollapseFunctions
 	^'function initExpandCollapseElement(id, storageId,expandStyleOptions, collapseStyleOptions) {
 	if (typeof(Storage) !== "undefined") 
 	{
-    	if ((localStorage.getItem(storageId) == "collapsed") || (localStorage.getItem(id) == null)) {
-			setDisplayOptionsTo(id,expandStyleOptions) } 
-		else {setDisplayOptionsTo(id,collapseStyleOptions) }
+    	if ((localStorage.getItem(storageId) == "collapsed") || (localStorage.getItem(storageId) == null)) {
+			setDisplayOptionsTo(id,collapseStyleOptions) } 
+		else {setDisplayOptionsTo(id,expandStyleOptions) }
 	}
 	else {setDisplayOptionsTo(id,expandStyleOptions);}
 };
@@ -14,11 +14,11 @@ jsExpandCollapseFunctions
 function expandCollapse(id, storageId,expandStyleOptions,collapseStyleOptions) {
   if (typeof(Storage) !== "undefined") {
     if ((localStorage.getItem(storageId) == "expanded") || (localStorage.getItem("topArea") == null)) {
-		localStorage.setItem(storageId,"collapsed"); 
 		setDisplayOptionsTo(id,collapseStyleOptions);
+		localStorage.setItem(storageId,"collapsed"); 
 	} else {
-		localStorage.setItem(storageId,"expanded"); 
 		setDisplayOptionsTo(id,expandStyleOptions);
+		localStorage.setItem(storageId,"expanded"); 
 	}
   } else {}
 };
@@ -32,11 +32,11 @@ function setDisplayOptionsTo(elementId,styleOptions) {
 function initExpandCollapseIcon(iconId, storageId, title, expandIcon, collapseIcon) {
   if (typeof(Storage) !== "undefined") {
     if (localStorage.getItem(storageId) == "collapsed") {
-		document.getElementById(iconId).src=collapseIcon;
+		document.getElementById(iconId).src=expandIcon;
 		document.getElementById(iconId).alt=title;
 		document.getElementById(iconId).title=title;
 	} else {
-		document.getElementById(iconId).src=expandIcon;
+		document.getElementById(iconId).src=collapseIcon;
 		document.getElementById(iconId).alt=title;
 		document.getElementById(iconId).title=title;
 	}

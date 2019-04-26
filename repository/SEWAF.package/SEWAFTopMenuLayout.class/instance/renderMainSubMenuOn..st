@@ -1,6 +1,7 @@
 other
 renderMainSubMenuOn: html
 	| jsEcElement |
+
 	portal selectedTab ifNil: [^self].
 	portal selectedTab isSubMenu ifFalse: [^self].
 
@@ -14,11 +15,8 @@ renderMainSubMenuOn: html
 			].
 		].
 	].
-	"html script: self jsExpandCollapseTopArea, self jsSetExpandCollapseTopAreaIcon, self jsExpandCollapseInitTopArea."
 
 	self renderOpenCloseIconOn: html.
-
-	"html script: 'setExpandCollapseTopAreaIcon(); initTopArea()'."
 
 	jsEcElement := self createExpandCollapseJsObject.
 	jsEcElement callInitIconFunction; callInitElementFunction.
