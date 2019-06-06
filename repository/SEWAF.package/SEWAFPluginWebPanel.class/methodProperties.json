@@ -6,6 +6,10 @@
 	"instance" : {
 		"childPanel" : "BrunoBB 08/21/2014 12:30",
 		"childPanel:" : "BrunoBB 08/21/2014 12:30",
+		"createEcLateralMenuJsObject" : "brunobb 05/31/2019 11:53",
+		"createEcSearchAreaJsObject" : "brunobb 05/31/2019 11:52",
+		"createExpandCollapseJsObject" : "brunobb 05/31/2019 11:54",
 		"mainPanel" : "BrunoBB 08/21/2014 12:13",
 		"mainPanel:" : "BrunoBB 08/21/2014 12:13",
+		"renderShowHideJsWindowIconOn:" : "brunobb 05/31/2019 11:52",
 		"setParent:" : "BrunoBB 03/06/2016 12:40" } }

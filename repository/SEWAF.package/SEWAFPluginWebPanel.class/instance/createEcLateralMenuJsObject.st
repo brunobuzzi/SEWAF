@@ -1,5 +1,5 @@
-other
-createExpandCollapseJsObject
+expand collapse js
+createEcLateralMenuJsObject
 
 	^JSExpandCollapseElement new
 		ecElementId: 'lateral-definition-list';

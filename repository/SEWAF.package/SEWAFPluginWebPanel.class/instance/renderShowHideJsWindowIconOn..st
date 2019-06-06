@@ -1,4 +1,4 @@
-search area
+expand collapse js
 renderShowHideJsWindowIconOn: html
 	| jsEcElement |
 

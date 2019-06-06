@@ -5,9 +5,6 @@
 	"instance" : {
 		"batchedList" : "brunobb 04/24/2019 13:10",
 		"batchedList:" : "brunobb 04/24/2019 13:10",
-		"createEcLateralMenuJsObject" : "brunobb 04/26/2019 12:20",
-		"createEcSearchAreaJsObject" : "brunobb 04/26/2019 12:43",
-		"createExpandCollapseJsObject" : "brunobb 04/26/2019 12:11",
 		"disableJsEnhacements" : "brunobb 04/24/2019 13:11",
 		"enableJsEnhacements" : "brunobb 04/24/2019 13:11",
 		"getCurrentCollection" : "brunobb 04/24/2019 13:10",
@@ -34,8 +31,6 @@
 		"renderLateralItemDetailsOn:for:" : "brunobb 04/24/2019 13:10",
 		"renderLateralListOn:" : "brunobb 04/24/2019 13:10",
 		"renderSearchAreaOn:" : "brunobb 04/25/2019 09:43",
-		"renderShowHideJsWindowIconOn:" : "brunobb 04/26/2019 13:29",
-		"renderShowHideWindowIconOn:" : "brunobb 04/25/2019 11:44",
 		"renderShowLateralListIconOn:" : "brunobb 04/24/2019 13:16",
 		"renderShowLateralListJsIconOn:" : "brunobb 04/26/2019 12:20",
 		"renderSummaryOn:forItem:" : "brunobb 04/24/2019 13:10",

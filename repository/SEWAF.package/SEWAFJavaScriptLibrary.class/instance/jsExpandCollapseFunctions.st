@@ -24,6 +24,7 @@ function expandCollapse(id, storageId,expandStyleOptions,collapseStyleOptions) {
 };
 
 function initExpandCollapseIcon(iconId, storageId, title, expandIcon, collapseIcon) {
+
   if (typeof(Storage) !== "undefined") {
     if (localStorage.getItem(storageId) == "collapsed") {
 		document.getElementById(iconId).src=expandIcon;
