@@ -162,6 +162,9 @@ frontofficePortalCss
   overflow-y: auto;
   box-shadow: 0px 0px 3px 0px rgba(11, 10, 10, 0.8);
 }
+.process-transition-selected {
+  background-color: #cfcfa9 !important;
+}
 .process-transition-gateway {
   padding: 15px;
   padding-top: 5px;
