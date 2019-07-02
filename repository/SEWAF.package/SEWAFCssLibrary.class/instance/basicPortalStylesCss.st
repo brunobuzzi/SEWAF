@@ -338,7 +338,7 @@ body, html, main {
 }
 .lateral-left-list-item-selected {
   background-color: beige;
-  border-radius: 10px;
+  border-radius: 5px;
   padding-left: 10px;
 }
 .lateral-left-list-item-unselected {

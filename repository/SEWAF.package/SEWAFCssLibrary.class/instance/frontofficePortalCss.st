@@ -155,7 +155,7 @@ frontofficePortalCss
   padding-top: 5px;
   float: left;
   margin: 10px 10px 10px 10px;
-  border-radius: 25px;
+  border-radius: 5px;
   background-color: #8CBD80;
   width: 28%;
   height: 60%;
@@ -167,7 +167,7 @@ frontofficePortalCss
   padding-top: 5px;
   float: left;
   margin: 10px 10px 10px 10px;
-  border-radius: 25px;
+  border-radius: 5px;
   background-color: #ADADAD;
   width: 28%;
   height: 60%;
@@ -178,7 +178,7 @@ frontofficePortalCss
   padding-top: 5px;
   float: left;
   margin: 10px 10px 10px 10px;
-  border-radius: 25px;
+  border-radius: 5px;
   width: 28%;
   height: 60%;
   overflow-y: auto;
