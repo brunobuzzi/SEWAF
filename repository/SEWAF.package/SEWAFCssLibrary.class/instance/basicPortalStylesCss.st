@@ -196,7 +196,7 @@ body, html, main {
   border-radius:3px;
   -moz-box-shadow: 0 1px 2px #d1d1d1;
   -webkit-box-shadow: 0 1px 2px #d1d1d1;
-  border-radius: 10px;
+  border-radius: 5px;
   padding-bottom: 2px;
   padding-left: 2px;
   padding-right: 2px;
