@@ -200,6 +200,8 @@ body, html, main {
   padding-bottom: 2px;
   padding-left: 2px;
   padding-right: 2px;
+  border-collapse: separate;
+  border-spacing: 0;
 }
 .default-gray-table table a:link {
   color: #666;
@@ -245,6 +247,9 @@ body, html, main {
 }
 .default-gray-table table td {
   padding: 5px;
+  border-top: 1px solid #ddd;
+  border-left: 1px solid #ddd;
+  background-color: white;
 }
 .default-gray-table table tr.even td {
   background: #f6f6f6;
