@@ -2,6 +2,9 @@ other
 orbeonPortalCss
 
 ^'
+#content {
+	height: 100%;
+}
 #orbeon-graph {
 	display: inline-block;
 	margin-top: 15px;
