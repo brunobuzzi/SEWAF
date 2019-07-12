@@ -498,6 +498,9 @@ body, html, main {
 /* END: COMMON STYLES   */
 
 /* START: BASIC COMPONENT STYLES */
+.border-none {
+	border: none;
+}
 .cursor-pointer {
 	cursor: pointer !important;
 }
