@@ -8,6 +8,9 @@ orbeonPortalCss
 #export-component {
 	margin-top: 10px;
 }
+#export-component input[type="submit"] {
+  border-radius: 5px;
+}
 #form-instances-component {
 	display: inline-flex;
 	margin-top: 5px;

@@ -174,7 +174,8 @@ body, html, main {
 }
 .default-gray-table input[type="submit"] {
   margin-top: 20px;
-  border-radius: 10px;
+  border-radius: 5px;
+  margin-right: 5px;
 }
 .default-gray-table-title {
 	margin-bottom: -10px;
