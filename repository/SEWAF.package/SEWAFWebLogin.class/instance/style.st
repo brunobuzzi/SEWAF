@@ -84,5 +84,5 @@ body {
 	margin-top: 10px;
 }
 #login-button input {
-	border-radius: 8px;
+	border-radius: 5px;
 }'
