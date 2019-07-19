@@ -1,10 +1,7 @@
 other
 topMenuLayoutCss
 
-^"self backofficePortalCss,
-	self basicPortalStylesCss,
-	self frontofficePortalCss,"
-'/* START: TOP AREA */
+^'/* START: TOP AREA */
 #top-area {
   display: inline-block;
   width: 100%;

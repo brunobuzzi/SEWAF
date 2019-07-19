@@ -1,10 +1,7 @@
 other
 leftMenuLayoutCss
 
-^self backofficePortalCss,
-	self basicPortalStylesCss,
-	self frontofficePortalCss,
-'/* START: TOP AREA */
+^'/* START: TOP AREA */
 #top-area {
 	width: 100%;
 	background-color: gray;

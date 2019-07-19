@@ -156,6 +156,10 @@ body, html, main {
   box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
   margin-bottom: 10px;
 }
+.centered-unique-form input[type="submit"] {
+  border-radius: 4px;
+  margin-right: 5px
+}
 .centered-unique-form input[type="radio"], 
 .centered-unique-form input[type="checkbox"] {
   margin: 0 4px 8px 0;
@@ -522,6 +526,18 @@ body, html, main {
 .display-inline-flex {
 	display: inline-flex;
 }
+.flex-1 {
+	flex: 1;
+}
+.flex-2 {
+	flex: 2;
+}
+.flex-3 {
+	flex: 3;
+}
+.flex-4 {
+	flex: 4;
+}
 .float-left {
   float: left;
 }
@@ -615,6 +631,9 @@ body, html, main {
 }
 .width-75per {
   width: 75%;
+}
+.width-98per {
+  width: 98%;
 }
 .width-100per {
   width: 100%;
