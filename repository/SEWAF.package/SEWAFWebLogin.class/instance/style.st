@@ -22,7 +22,7 @@ body {
 	margin-right: 10px;
 }
 #login {
-	border-radius: 25px;
+	border-radius: 5px;
 	padding-top: 5px;
 	padding-bottom: 20px;
 	width: 380px;
@@ -46,7 +46,7 @@ body {
 	margin-left: 8px;
 }
 #environment-div select {
-	border-radius: 15px;
+	border-radius: 5px;
 	display: block;
 	width: 290px;
     height: 25px;
@@ -57,7 +57,7 @@ body {
 	width: 80%;
 }
 #user-div input {
-	border-radius: 15px;
+	border-radius: 5px;
 	width: 290px;
 	display: block;
 }
@@ -75,7 +75,7 @@ body {
 	margin-left: 8px;
 }
 #password-div input {
-	border-radius: 15px;
+	border-radius: 5px;
 	display: block;
 	width: 290px;
 }
