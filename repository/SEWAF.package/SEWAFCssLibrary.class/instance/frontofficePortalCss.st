@@ -129,7 +129,8 @@ frontofficePortalCss
     margin: 20px;
     padding: 20px;
     background-color: white;
-    border-radius: 10px;
+    border-radius: 1px;
+	box-shadow: 0px 0px 3px 0px rgba(11, 10, 10, 0.8);
 }
 .monitor-list-item-summary span {
   font-style: italic;
