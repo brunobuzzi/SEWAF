@@ -123,7 +123,7 @@ body, html, main {
   margin: 10px auto;
   padding: 10px 20px;
   background: #898a8a;
-  border-radius: 8px;
+  border-radius: 3px;
 }
 .centered-unique-form fieldset {
   margin-bottom: 5px;
@@ -297,7 +297,7 @@ body, html, main {
 }
 .inform-box {
   padding: 10px;
-  border-radius: 10px;
+  border-radius: 4px;
   border: 1px solid;
   color: rgb(205, 10, 10);
   background-color: rgb(254, 241, 236);
@@ -473,21 +473,21 @@ body, html, main {
   font-size: 80%;
 }
 .table-search-element form fieldset input[type="text"],  .table-search-element fieldset input[type="text"]{
-  border-radius: 6px;
+  border-radius: 4px;
   margin-right: 2px;
 }
 .table-search-element form fieldset input[type="submit"], .table-search-element fieldset input[type="submit"]{
     margin-top: 0px;
 }
 .timer-block-code {
-	border-radius: 10px;
+	border-radius: 4px;
 	margin: 20px;
 	padding: 15px;
 	font-size: 20px;
 	background-color: #80A0BD;
 }
 .timer-last-execution {
-	border-radius: 10px;
+	border-radius: 4px;
 	margin: 20px;
 	padding: 15px;
 	font-size: 20px;
@@ -500,7 +500,7 @@ body, html, main {
   float: left;
 }
 #users-to-add input {
-  border-radius: 10px;
+  border-radius: 4px;
 }
 #users-to-add input[type="submit"] {
   margin-top: 20px;
