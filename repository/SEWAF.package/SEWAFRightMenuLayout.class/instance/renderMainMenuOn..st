@@ -1,10 +1,11 @@
 other
 renderMainMenuOn: html
+	| jsEcElement |
 
 	html div with: [self renderOpenCloseIconOn: html].
 	portal showMainMenu ifFalse: [^self].
 
-	html navigation class: 'margin-top-15px'; with: [
+	html navigation id:'navigation-panel'; class: 'margin-top-15px'; with: [
 		html unorderedList id: 'lateral-navigation'; with: [
 			portal navigation items do: [:aSewafSubMenuItem | 
 				html unorderedList class: 'lateral-menu-item'; with: [
@@ -31,3 +32,8 @@ renderMainMenuOn: html
 			].
 		].
 	].
+
+	jsEcElement := self createExpandCollapseJsObject.
+	jsEcElement callInitIconFunction; callInitElementFunction.
+
+	html script: jsEcElement.

@@ -4,6 +4,6 @@ initialize
 	super initialize.
 
 	showMainMenu := true.
-	layout := SEWAFTopMenuLayout on: self.
+	layout := self defaultLayoutClass on: self.
 
 	self initializeNavigation.

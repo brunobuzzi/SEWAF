@@ -1,16 +1,15 @@
 other
 renderOpenCloseIconOn: html
-	| iconSymbol |
+	| jsEcElement |
 
-	iconSymbol := portal showMainMenu ifTrue:[#arrowback216Png] ifFalse: [#arrownext216Png].
+	jsEcElement := self createExpandCollapseJsObject.
+	jsEcElement callInitIconFunction; callExpandCollapseElementFunction.
 
-	html div class: 'lateral-menu-close-icon'; with: [
+
+	html div class: 'top-area-close-icon'; with: [
 		html anchor 
-			callback: [portal showMainMenu: portal showMainMenu not];
-			with: [
-				html image url: (SEWAFIconLibrary / iconSymbol); 
-					altText: ('Expand/Collapse' translateIn: self session); 
-					title: ('Expand/Collapse' translateIn: self session).
-		].
+			class: 'cursor-pointer';
+			onClick: jsEcElement;
+			with: [html image id: 'top-area-expand-collapse-icon'].
 		self renderHelpIconOn: html.
 	].

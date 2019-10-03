@@ -4,8 +4,9 @@
 	"instance" : {
 		"applicationIcon" : "brunobb 10/02/2018 03:08",
 		"applicationName" : "brunobb 10/02/2018 03:08",
+		"defaultLayoutClass" : "brunobb 10/03/2019 07:14",
 		"getPortalParents" : "brunobb 10/02/2018 03:30",
-		"initialize" : "brunobb 10/02/2018 03:08",
+		"initialize" : "brunobb 10/03/2019 07:14",
 		"initializeNavigation" : "brunobb 10/02/2018 03:08",
 		"isBIPortal" : "brunobb 10/02/2018 03:08",
 		"isBackofficePortal" : "brunobb 10/02/2018 03:08",
