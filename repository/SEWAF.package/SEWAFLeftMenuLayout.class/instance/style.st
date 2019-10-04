@@ -51,7 +51,7 @@ style
 #lateral-menu-area {
 	overflow-y: auto;
 	background: rgb(126, 126, 126) none repeat scroll 0% 0%;
-	border-radius: 10px;
+	border-radius: 4px;
 }
 .lateral-menu-area-expanded {
 	display: inline-block;
@@ -104,8 +104,6 @@ style
 	padding-right: 5px;
 	padding-bottom: 5px;
 }
-
-
 .top-menu-item {
   float: left;
   margin-left: 5%;

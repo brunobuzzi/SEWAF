@@ -326,7 +326,7 @@ body, html, main {
   display: inline-block;
   height: 100%;
   font-size: 90%;
-  box-shadow: 2px 2px 2px 0px rgba(11, 10, 10, 0.8) inset;
+  box-shadow: 1px 1px 0px 0px rgba(11, 10, 10, 0.8) inset;
 }
 .lateral-left-list ul {
   list-style-type: none;
@@ -441,7 +441,7 @@ body, html, main {
 }
 #process-definition {
   height: 100%;
-  box-shadow: 2px 2px 2px 0px rgba(11, 10, 10, 0.8) inset;
+  box-shadow: 1px 1px 0px 0px rgba(11, 10, 10, 0.8) inset;
 }
 .process-query-condition {
 	height: 20px;

@@ -63,11 +63,11 @@ leftMenuLayoutCss
 #lateral-menu-area {
 	overflow-y: auto;
 	background: rgb(126, 126, 126) none repeat scroll 0% 0%;
-	border-radius: 10px;
+	border-radius: 4px;
     margin-top: 5px;
     margin-right: 5px;
     margin-left: 1px;
-    padding: 10px;
+    padding: 4px;
 }
 #top-search-show-hide-area {
   display: inline-flex; 
