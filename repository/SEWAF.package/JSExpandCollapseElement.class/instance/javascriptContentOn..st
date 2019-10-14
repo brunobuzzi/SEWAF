@@ -1,4 +1,4 @@
-other
+js code generation
 javascriptContentOn: aStream
 
 	self hasExpandCollapseFunctionCall ifTrue: [self addCallToExpandCollapseFunctionOn: aStream].

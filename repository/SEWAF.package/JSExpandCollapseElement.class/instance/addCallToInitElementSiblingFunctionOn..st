@@ -1,4 +1,4 @@
-other
+js function call
 addCallToInitElementSiblingFunctionOn: aStream
 	| arguments |
 

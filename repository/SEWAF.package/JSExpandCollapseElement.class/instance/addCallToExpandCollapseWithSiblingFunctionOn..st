@@ -1,4 +1,4 @@
-other
+js function call
 addCallToExpandCollapseWithSiblingFunctionOn: aStream
 	| arguments |
 
