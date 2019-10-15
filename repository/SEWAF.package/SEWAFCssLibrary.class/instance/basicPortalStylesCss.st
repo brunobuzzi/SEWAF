@@ -556,6 +556,9 @@ body, html, main {
 .height350 {
   height: 350px;
 }
+.margin-bottom-10px {
+  margin-bottom: 10px;
+}
 .margin-left-2px {
   margin-left: 2px;
 }
