@@ -7,9 +7,11 @@ renderPromptDialogOn: html information: aString promptLabel: promptLabel buttonL
 				html legend: aString.
 				html label for: 'prompt'; with: (promptLabel translateIn: self session).
 				html textInput id: 'prompt'; callback: [:value | self addValue: value named: 'prompt']. 
-				html submitButton 
-					callback: [self perform: actionMethod withArguments: arguments];
-					with: (buttonLabel translateIn: self session).
+				html div class: 'margin-top-10px float-right'; with: [
+					html submitButton 
+						callback: [self perform: actionMethod withArguments: arguments];
+						with: (buttonLabel translateIn: self session).
+				].
 			]
 		]
 	]
