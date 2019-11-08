@@ -45,6 +45,21 @@ backofficePortalCss
 	display: inline-block;
     padding-top: 5px;
 }
+#environment-user-autocompletion {
+	width: 95%;
+	margin-left: 8px;
+	margin-top: 10px;
+}
+#environment-user-autocompletion fieldset {
+	border-radius: 5px;
+}
+#environment-user-autocompletion fieldset label {
+	display: block;
+}
+#environment-user-autocompletion fieldset input {
+	border-radius: 5px;
+	width: 70%;
+}
 #environment-users {
 	width: 50%;
 	display: inline-block;
