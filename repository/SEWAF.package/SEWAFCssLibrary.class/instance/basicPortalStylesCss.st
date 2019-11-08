@@ -596,6 +596,12 @@ body, html, main {
 	width: 70%;
 	padding: 20px;
 }
+.padding-left-10px {
+  padding-left: 10px;
+}
+.padding-left-15px {
+  padding-left: 15px;
+}
 .padding-top-1px {
   padding-top: 1px;
 }

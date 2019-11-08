@@ -51,7 +51,7 @@ backofficePortalCss
 }
 #environment-applications-title {
 	font-size: 25px;
-	padding-left: 30%;
+	padding-left: 20px;
 	padding-top: 10px;
 }
 #environment-svg {
@@ -59,11 +59,10 @@ backofficePortalCss
 }
 #environment-users-title {
 	font-size: 25px;
-	padding-left: 30%;
+	padding-left: 10px;
 	padding-top: 10px;
 }
 #environment-users-table {
-	padding-left: 25%;
 }
 #forms-operations {
   float: left;
