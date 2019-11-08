@@ -41,12 +41,12 @@ backofficePortalCss
 	border: 0;
 }
 #environment-applications {
-	width: 55%;
+	width: 50%;
 	display: inline-block;
     padding-top: 5px;
 }
 #environment-users {
-	width: 45%;
+	width: 50%;
 	display: inline-block;
 }
 #environment-applications-title {
