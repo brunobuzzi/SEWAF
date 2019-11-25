@@ -559,6 +559,9 @@ body, html, main {
 .margin-bottom-10px {
   margin-bottom: 10px;
 }
+.margin-left-auto {
+  margin-left: auto;
+}
 .margin-left-2px {
   margin-left: 2px;
 }
