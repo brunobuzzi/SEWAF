@@ -508,6 +508,9 @@ body, html, main {
 /* END: COMMON STYLES   */
 
 /* START: BASIC COMPONENT STYLES */
+.background-red {
+	background-color: #FA8072;
+}
 .border-none {
 	border: none;
 }
