@@ -115,7 +115,7 @@ topMenuLayoutCss
   width: 100%;
 }
 #top-search-area form fieldset {
-  border-radius: 6px;
+  border-radius: 4px;
   margin-bottom: 0px;
   padding-bottom: 5px;
   border: none;
@@ -125,7 +125,7 @@ topMenuLayoutCss
 }
 #top-search-area form fieldset input[type="text"], 
 #top-search-area form fieldset select {
-  border-radius: 6px;
+  border-radius: 4px;
   margin-right: 20px;
   border-color: darkgray;
   width: 100%;
@@ -158,12 +158,12 @@ topMenuLayoutCss
   margin-top: -15px;
 }
 .top-search-filters-one input {
-  border-radius: 6px;
+  border-radius: 4px;
   margin-right: 20px;
   border-color: #A9A9A9;
 }
 .top-search-filters-two input {
-  border-radius: 6px;
+  border-radius: 4px;
   margin-right: 20px;
   border-color: #A9A9A9;
 }
@@ -174,7 +174,7 @@ topMenuLayoutCss
 	background-color: white;
 	margin-top: 5px;
 	list-style: none;
-	border-radius: 5px;
+	border-radius: 4px;
 	padding: 15px;
 	margin-right: 25px;
 }
@@ -186,7 +186,7 @@ topMenuLayoutCss
 .lateral-main-menu-item-txt > span {
 	background: rgb(226, 227, 229) none repeat scroll 0% 0%;
 	padding: 5px;
-	border-radius: 5px;
+	border-radius: 4px;
 }
 .lateral-submenu a {
 	text-decoration: none;
