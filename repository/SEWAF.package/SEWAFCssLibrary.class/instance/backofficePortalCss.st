@@ -30,7 +30,7 @@ backofficePortalCss
 	display: contents;
 }
 #bpm-report-bottom-options form {
-	border-radius: 10px;
+	border-radius: 4px;
 	background-color: darkgray;
 	margin: 10px;
 	width: 250px;
@@ -84,7 +84,7 @@ backofficePortalCss
   width: 200px;
 }
 #forms-operations input {
-  border-radius: 10px;
+  border-radius: 4px;
   margin-left: 10px;
   margin-bottom: 10px;
 }
@@ -135,7 +135,7 @@ backofficePortalCss
 #imported-processes-sucessful {
 	font-size: 25px;
 	background-color: beige;
-	border-radius: 10px;
+	border-radius: 4px;
 	padding: 10px;
 	margin: 10px;
 	color: darkgreen;
@@ -153,7 +153,7 @@ backofficePortalCss
 #imported-processes-failed {
 	font-size: 25px;
 	background-color: beige;
-	border-radius: 10px;
+	border-radius: 4px;
 	padding: 10px;
 	margin: 10px;
 	color: red;
@@ -168,7 +168,7 @@ backofficePortalCss
 	display: block;
 }
 .imported-process {
-	border-radius: 10px;
+	border-radius: 4px;
 	background: gray;
 	padding-top: 20px;
 	padding-left: 10px;
@@ -178,7 +178,7 @@ backofficePortalCss
 }
 .information-xpdl-import {
 	background-color: #898a8a;
-	border-radius: 10px;
+	border-radius: 4px;
 	padding: 15px;
 	margin-top: 20px;
 	margin-left: 10px;
@@ -202,9 +202,13 @@ backofficePortalCss
 #internationalization fieldset {
   border: medium none;
 }
+#internationalization fieldset legend {
+ padding-top: 10px;
+ padding-bottom: 5px;
+}
 #internationalization label, #internationalization input, #internationalization select {
   width: 200px;
-  border-radius: 10px;
+  border-radius: 4px;
   margin-right: 15px;
 }
 #internationalization-switch {
@@ -264,7 +268,7 @@ backofficePortalCss
   float: left;
 }
 #users-to-add-to-role input {
-  border-radius: 10px;
+  border-radius: 4px;
 }
 #users-to-add-to-role input[type="submit"] {
   margin-top: 20px;

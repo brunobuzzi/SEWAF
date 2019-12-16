@@ -75,7 +75,7 @@ body, html, main {
 }
 .calendar-year {
 	display: inline-block;
-	border-radius: 10px;
+	border-radius: 4px;
     padding-left: 15px;
     padding-right: 15px;
     padding-top: 5px;
@@ -112,7 +112,7 @@ body, html, main {
   background-color: #BCBCBC;
   font-size: 18px;
   font-style: normal;
-  border-radius: 5px;
+  border-radius: 4px;
   border: 1px solid #BCBCBC;
   border-width: 1px 1px 3px;
   margin-bottom: 10px;
@@ -178,7 +178,7 @@ body, html, main {
 }
 .default-gray-table input[type="submit"] {
   margin-top: 20px;
-  border-radius: 5px;
+  border-radius: 4px;
   margin-right: 5px;
 }
 .default-gray-table-title {
@@ -201,7 +201,7 @@ body, html, main {
   border-radius:3px;
   -moz-box-shadow: 0 1px 2px #d1d1d1;
   -webkit-box-shadow: 0 1px 2px #d1d1d1;
-  border-radius: 5px;
+  border-radius: 4px;
   padding-bottom: 2px;
   padding-left: 2px;
   padding-right: 2px;
@@ -314,7 +314,7 @@ body, html, main {
 	border: 0px none;
 }
 .jquery-dialog-yes-no form fieldset input, .jquery-dialog-yes-no fieldset input {
-	border-radius: 8px;
+	border-radius: 4px;
 	background-color: rgb(33, 145, 192);
 	margin-left: 20px;
 }
@@ -445,7 +445,7 @@ body, html, main {
 }
 .process-query-condition {
 	height: 20px;
-	border-radius: 5px;
+	border-radius: 4px;
 	width: 200px;
 }
 .process-map-scaled {

@@ -22,7 +22,7 @@ frontofficePortalCss
   margin-top: 1%;
 }
 .centered-forms form { 
-  border-radius: 10px;
+  border-radius: 4px;
   border-style: inset;
   background-color: #7A7557;
   padding: 5px;
@@ -33,13 +33,13 @@ frontofficePortalCss
   border: none;
 } 
 .centered-forms form input[type="text"]{ 
-  border-radius: 10px;
+  border-radius: 4px;
   border-style: inset;
   width: 350px;
   margin-bottom: 5px;
 }
 .centered-forms form input[type="submit"] { 
-  border-radius: 10px;
+  border-radius: 4px;
   width: 150px;
   border-right: 10px;
   margin-left: 3%;
@@ -47,7 +47,7 @@ frontofficePortalCss
   margin-top: 1%;
 }
 .centered-forms form input[type="file"] { 
-  border-radius: 10px;
+  border-radius: 4px;
   width: 400px;
   border-right: 10px;
   margin-top: 10px;
@@ -58,7 +58,7 @@ frontofficePortalCss
   margin-top: 10px;
 }
 .centered-forms form select { 
-  border-radius: 10px;
+  border-radius: 4px;
   border-style: inset;
   display: block;
   width: 350px;
