@@ -1,3 +1,0 @@
-Accessing
-parentPortal
-	^parentPortal

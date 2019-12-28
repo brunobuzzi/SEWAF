@@ -1,4 +1,0 @@
-Updating
-beSortable
-
-	hasSortIcons := true

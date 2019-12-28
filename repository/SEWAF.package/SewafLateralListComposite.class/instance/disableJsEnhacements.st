@@ -1,4 +1,0 @@
-javascript
-disableJsEnhacements
-
-	isJsEnhacementsEnabled := false

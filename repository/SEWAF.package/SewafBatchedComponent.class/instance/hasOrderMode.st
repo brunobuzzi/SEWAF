@@ -1,4 +1,0 @@
-other
-hasOrderMode
-
-	^orderMode notNil

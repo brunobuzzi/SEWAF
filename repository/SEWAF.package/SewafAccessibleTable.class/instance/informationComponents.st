@@ -1,3 +1,0 @@
-Accessing
-informationComponents
-	^informationComponents

@@ -1,4 +1,0 @@
-Accessing
-hasSearchSelector
-
-	^searchSelector notNil

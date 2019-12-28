@@ -1,4 +1,0 @@
-other
-isSubMenu
-
-	^false

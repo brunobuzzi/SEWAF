@@ -1,2 +1,0 @@
-search area
-renderSearchAreaOn: html

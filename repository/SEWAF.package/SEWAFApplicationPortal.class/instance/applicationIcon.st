@@ -1,4 +1,0 @@
-other
-applicationIcon
-
-	self subclassResponsibility

@@ -1,4 +1,0 @@
-other
-isAsc
-
-	^orderMode = #asc

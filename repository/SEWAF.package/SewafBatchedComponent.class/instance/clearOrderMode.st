@@ -1,4 +1,0 @@
-other
-clearOrderMode
-
-	orderMode := nil

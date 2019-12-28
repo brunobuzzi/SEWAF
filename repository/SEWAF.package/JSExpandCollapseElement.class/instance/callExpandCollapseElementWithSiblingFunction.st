@@ -1,4 +1,0 @@
-js function configuration
-callExpandCollapseElementWithSiblingFunction
-
-	functionallitiesToCall at: #expandCollapseWithSibling put: true

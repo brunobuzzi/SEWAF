@@ -1,4 +1,0 @@
-other
-isDesc
-
-	^orderMode = #desc

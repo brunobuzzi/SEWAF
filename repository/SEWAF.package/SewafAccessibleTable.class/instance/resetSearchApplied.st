@@ -1,4 +1,0 @@
-other
-resetSearchApplied
-
-	searchApplied := false

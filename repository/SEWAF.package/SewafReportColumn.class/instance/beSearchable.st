@@ -1,4 +1,0 @@
-other
-beSearchable
-
-	hasSearch := true.

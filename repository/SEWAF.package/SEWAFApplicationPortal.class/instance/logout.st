@@ -1,4 +1,0 @@
-other
-logout
-
-	self subclassResponsibility

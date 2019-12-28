@@ -1,3 +1,0 @@
-Accessing
-imageId
-	^imageId

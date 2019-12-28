@@ -1,4 +1,0 @@
-other
-numberOfInformationComponents
-
-	^informationComponents size
