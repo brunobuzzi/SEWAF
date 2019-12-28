@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SEWAFWebAbstractPanel",
+	"pools" : [
+		 ],
+	"super" : "SEWAFPluginWebPanel",
+	"type" : "normal" }

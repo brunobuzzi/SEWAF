@@ -1,0 +1,19 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"tabs",
+		"selectedTab",
+		"subTabs",
+		"selectedSubTab",
+		"arena",
+		"subTabChanged" ],
+	"name" : "SEWAFWebObjectPanel",
+	"pools" : [
+		 ],
+	"super" : "SEWAFWebPanel",
+	"type" : "normal" }

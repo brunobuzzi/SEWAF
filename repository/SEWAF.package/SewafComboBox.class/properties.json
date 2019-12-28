@@ -1,0 +1,15 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"options",
+		"selection" ],
+	"name" : "SewafComboBox",
+	"pools" : [
+		 ],
+	"super" : "SEWAFWebWidget",
+	"type" : "normal" }

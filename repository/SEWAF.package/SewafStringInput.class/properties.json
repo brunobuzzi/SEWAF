@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"input" ],
+	"name" : "SewafStringInput",
+	"pools" : [
+		 ],
+	"super" : "SEWAFWebWidget",
+	"type" : "normal" }

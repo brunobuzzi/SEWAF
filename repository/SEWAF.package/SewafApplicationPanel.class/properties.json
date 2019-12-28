@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SewafApplicationPanel",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

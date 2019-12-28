@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"portal" ],
+	"name" : "SEWAFPortalLayout",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

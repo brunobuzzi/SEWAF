@@ -1,0 +1,19 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"name",
+		"password",
+		"loginAttempts",
+		"selectedLanguage",
+		"user",
+		"loginFailed" ],
+	"name" : "SEWAFWebLogin",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

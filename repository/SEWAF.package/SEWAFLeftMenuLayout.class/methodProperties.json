@@ -1,0 +1,16 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"createExpandCollapseJsObject" : "brunobb 10/03/2019 09:16",
+		"cssFileName" : "BrunoBB 09/05/2016 15:44",
+		"getBpmCssFileName" : "brunobb 07/12/2019 12:58",
+		"isLeft" : "BrunoBB 08/12/2016 07:07",
+		"nextLayout" : "brunobb 02/14/2018 11:23",
+		"renderApplicationIconOn:" : "brunobb 07/11/2019 02:59",
+		"renderContentOn:" : "brunobb 10/04/2019 08:57",
+		"renderLogoutOn:" : "brunobb 01/31/2019 09:33",
+		"renderMainMenuAreaOn:" : "brunobb 01/29/2019 04:09",
+		"renderMainMenuOn:" : "brunobb 10/03/2019 09:12",
+		"renderOpenCloseIconOn:" : "brunobb 10/03/2019 09:17",
+		"style" : "brunobb 10/04/2019 08:59" } }

@@ -1,0 +1,4 @@
+other
+numberOfInformationComponents
+
+	^informationComponents size

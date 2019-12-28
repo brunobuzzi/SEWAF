@@ -1,0 +1,19 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"booleanSelector",
+		"callbackSelector",
+		"buttonLabel",
+		"buttonTitle",
+		"backcolor",
+		"fieldSetStyle" ],
+	"name" : "SewafBooleanTable",
+	"pools" : [
+		 ],
+	"super" : "SewafAccessibleTable",
+	"type" : "normal" }

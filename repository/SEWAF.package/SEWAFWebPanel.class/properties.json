@@ -1,0 +1,19 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"model",
+		"navigation",
+		"title",
+		"selectedToolBarOption",
+		"showHideElements",
+		"tables" ],
+	"name" : "SEWAFWebPanel",
+	"pools" : [
+		 ],
+	"super" : "WAComponent",
+	"type" : "normal" }

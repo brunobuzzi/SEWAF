@@ -1,0 +1,27 @@
+{
+	"class" : {
+		"label:command:" : "BrunoBB 09/17/2016 12:34",
+		"label:icon:" : "BrunoBB 09/17/2016 12:34",
+		"label:icon:command:" : "BrunoBB 09/17/2016 12:34" },
+	"instance" : {
+		"addIconSymbol:size:" : "BrunoBB 09/17/2016 12:55",
+		"command" : "BrunoBB 09/17/2016 12:34",
+		"command:" : "BrunoBB 09/17/2016 12:34",
+		"getCommandItem:ifNone:" : "BrunoBB 09/17/2016 12:34",
+		"getIconSize24" : "BrunoBB 09/17/2016 13:10",
+		"getIconSize32" : "BrunoBB 09/17/2016 13:10",
+		"getIconSize48" : "BrunoBB 09/17/2016 13:11",
+		"getIconSize64" : "BrunoBB 09/17/2016 13:11",
+		"getIconSize:" : "BrunoBB 09/17/2016 13:15",
+		"icons" : "BrunoBB 09/17/2016 12:34",
+		"icons:" : "BrunoBB 09/17/2016 12:34",
+		"initialize" : "BrunoBB 09/17/2016 12:34",
+		"isSubMenu" : "BrunoBB 09/17/2016 12:34",
+		"itemIcon" : "BrunoBB 09/17/2016 12:34",
+		"itemIcon:" : "BrunoBB 09/17/2016 12:34",
+		"itemLabel" : "BrunoBB 09/17/2016 12:34",
+		"itemLabel:" : "BrunoBB 09/17/2016 12:34",
+		"set24Icon:" : "BrunoBB 09/17/2016 13:05",
+		"set32Icon:" : "BrunoBB 09/17/2016 13:05",
+		"set48Icon:" : "BrunoBB 09/17/2016 13:05",
+		"set64Icon:" : "BrunoBB 09/17/2016 13:06" } }
