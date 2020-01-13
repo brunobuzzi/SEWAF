@@ -291,6 +291,7 @@ body, html, main {
 }
 .error-text {
   color: red;
+  font-size: 85%;
 }
 .hide-lateral-left-list {
   float: left;
