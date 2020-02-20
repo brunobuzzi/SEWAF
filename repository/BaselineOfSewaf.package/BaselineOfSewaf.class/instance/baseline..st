@@ -6,6 +6,6 @@ baseline: spec
      do: [
 
 		spec baseline: 'Seaside3' with: [
-			spec repository: 'github://GsDevKit/Seaside31:gs_master/repository' ].
+			spec repository: 'github://SeasideSt/Seaside:master/repository' ].
 
        spec package: 'SEWAF' with: [spec requires: #('Seaside3')]]
