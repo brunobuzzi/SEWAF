@@ -23,4 +23,22 @@ orbeonPortalCss
 	height: 470px;
 	overflow: scroll;
 }
+.radio-button-container {
+	border-style: inset;
+	border-width: 1px;
+	margin-bottom: 10px;
+	border-color: gainsboro;
+	padding-top: 10px;
+}
+.radio-button-horizontal {
+	display: inline-flex !important;
+	margin-right: 5px;
+}
+.selected-field-list {
+	border-style: inset;
+	border-width: 1px;
+	border-color: gainsboro;
+	margin-bottom: 10px;
+	font-weight: bold;
+}
 '
