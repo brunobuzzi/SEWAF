@@ -16,6 +16,14 @@ orbeonPortalCss
 	margin-top: 5px;
 	margin-left: 5px;
 }
+.query-block-error {
+    color: red;
+    margin: 15px;
+    font-size: 150%;
+    border-style: groove;
+    padding: 10px;
+    text-align: center;
+}
 #orbeon-graph {
 	display: inline-block;
 	margin-top: 15px;
