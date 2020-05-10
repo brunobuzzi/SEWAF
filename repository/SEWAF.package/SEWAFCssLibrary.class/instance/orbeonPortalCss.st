@@ -5,6 +5,10 @@ orbeonPortalCss
 #content {
 	height: 100%;
 }
+#chart-form {
+	height: 250px;
+	overflow: auto;	
+}
 #export-component {
 	margin-top: 10px;
 }
