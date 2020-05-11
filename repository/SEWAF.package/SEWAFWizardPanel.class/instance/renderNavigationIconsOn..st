@@ -1,5 +1,5 @@
-other
+render
 renderNavigationIconsOn: html
 
 	(currentComponentIndex > 1) ifTrue: [self renderPreviousComponentIconOn: html].
-	(currentComponentIndex < stepsComponents size) ifTrue: [self renderNextComponentIconOn: html].
+	(currentComponentIndex < stepsComponentsClasses size) ifTrue: [self renderNextComponentIconOn: html].

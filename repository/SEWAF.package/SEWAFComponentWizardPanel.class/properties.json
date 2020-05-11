@@ -1,0 +1,14 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SEWAFComponentWizardPanel",
+	"pools" : [
+		 ],
+	"super" : "SEWAFAbstractWizardPanel",
+	"type" : "normal" }

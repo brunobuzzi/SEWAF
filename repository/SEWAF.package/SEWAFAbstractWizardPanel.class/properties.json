@@ -12,7 +12,7 @@
 		"modelsBlocks",
 		"currentComponentIndex",
 		"creationBlocks" ],
-	"name" : "SEWAFWizardPanel",
+	"name" : "SEWAFAbstractWizardPanel",
 	"pools" : [
 		 ],
 	"super" : "SEWAFWebPanel",

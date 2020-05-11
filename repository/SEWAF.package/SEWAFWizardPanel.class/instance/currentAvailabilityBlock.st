@@ -1,4 +1,4 @@
-other
+current component
 currentAvailabilityBlock
 
-	^availabilityBlocks at: currentComponentIndex
+	^availabilityBlocks at: currentComponentIndex ifAbsent: []

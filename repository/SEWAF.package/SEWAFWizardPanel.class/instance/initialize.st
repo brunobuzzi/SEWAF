@@ -3,6 +3,8 @@ initialize
 
 	super initialize.
 
-	stepsComponents := #().
+	stepsComponentsClasses := #().
+	stepsComponentsInstances := #().
 	availabilityBlocks := #().
+	modelsBlocks := #().
 	currentComponentIndex := 1.
