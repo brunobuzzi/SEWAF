@@ -2,4 +2,13 @@
 	"class" : {
 		 },
 	"instance" : {
-		 } }
+		"currentComponentClass" : "brunobb 05/10/2020 18:16",
+		"currentComponentInstance" : "brunobb 05/10/2020 18:16",
+		"currentComponentView" : "brunobb 05/10/2020 18:16",
+		"initialize" : "brunobb 05/10/2020 18:16",
+		"renderCurrentComponentOn:" : "brunobb 05/10/2020 18:22",
+		"renderNextComponentIconOn:" : "brunobb 05/10/2020 18:16",
+		"stepsComponentsClasses" : "brunobb 05/10/2020 18:16",
+		"stepsComponentsClasses:" : "brunobb 05/10/2020 18:16",
+		"stepsComponentsInstances" : "brunobb 05/10/2020 18:16",
+		"stepsComponentsInstances:" : "brunobb 05/10/2020 18:16" } }

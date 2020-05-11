@@ -1,0 +1,3 @@
+Accessing
+currentCanvas
+	^currentCanvas

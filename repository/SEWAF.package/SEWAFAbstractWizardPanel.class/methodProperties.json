@@ -1,5 +1,23 @@
 {
 	"class" : {
-		 },
+		"newOn:withComponents:availabilityBlocks:creationBlocks:" : "brunobb 05/10/2020 18:26" },
 	"instance" : {
-		 } }
+		"availabilityBlocks" : "brunobb 05/10/2020 18:25",
+		"availabilityBlocks:" : "brunobb 05/10/2020 18:25",
+		"creationBlocks" : "brunobb 05/10/2020 18:25",
+		"creationBlocks:" : "brunobb 05/10/2020 18:25",
+		"currentAvailabilityBlock" : "brunobb 05/10/2020 18:25",
+		"currentComponentIndex" : "brunobb 05/10/2020 18:25",
+		"currentComponentIndex:" : "brunobb 05/10/2020 18:25",
+		"currentComponentModel" : "brunobb 05/10/2020 18:25",
+		"currentCreationBlock" : "brunobb 05/10/2020 18:25",
+		"initialize" : "brunobb 05/10/2020 18:25",
+		"modelsBlocks" : "brunobb 05/10/2020 18:25",
+		"modelsBlocks:" : "brunobb 05/10/2020 18:25",
+		"renderContentOn:" : "brunobb 05/10/2020 18:25",
+		"renderCurrentComponentOn:" : "brunobb 05/10/2020 18:25",
+		"renderNavigationIconsOn:" : "brunobb 05/10/2020 18:44",
+		"renderNextComponentIconOn:" : "brunobb 05/10/2020 18:25",
+		"renderPreviousComponentIconOn:" : "brunobb 05/10/2020 18:46",
+		"wizardParent" : "brunobb 05/10/2020 18:25",
+		"wizardParent:" : "brunobb 05/10/2020 18:25" } }

@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		 ],
+		"currentCanvas" ],
 	"name" : "SEWAFRenderWizardPanel",
 	"pools" : [
 		 ],
