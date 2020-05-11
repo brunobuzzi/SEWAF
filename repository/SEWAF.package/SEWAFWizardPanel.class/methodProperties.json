@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"newForComponents:availabilityBlocks:" : "brunobb 05/10/2020 17:09" },
+	"instance" : {
+		"availabilityBlocks" : "brunobb 05/10/2020 17:09",
+		"availabilityBlocks:" : "brunobb 05/10/2020 17:09",
+		"currentAvailabilityBlock" : "brunobb 05/10/2020 17:20",
+		"currentComponent" : "brunobb 05/10/2020 17:20",
+		"currentComponentIndex" : "brunobb 05/10/2020 17:10",
+		"currentComponentIndex:" : "brunobb 05/10/2020 17:10",
+		"initialize" : "brunobb 05/10/2020 17:10",
+		"renderContentOn:" : "brunobb 05/10/2020 17:12",
+		"renderNavigationIconsOn:" : "brunobb 05/10/2020 17:20",
+		"renderNextComponentIconOn:" : "brunobb 05/10/2020 17:19",
+		"renderPreviousComponentIconOn:" : "brunobb 05/10/2020 17:17",
+		"stepsComponents" : "brunobb 05/10/2020 17:09",
+		"stepsComponents:" : "brunobb 05/10/2020 17:09" } }

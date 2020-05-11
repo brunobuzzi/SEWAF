@@ -1,0 +1,16 @@
+{
+	"category" : "SEWAF",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"stepsComponents",
+		"availabilityBlocks",
+		"currentComponentIndex" ],
+	"name" : "SEWAFWizardPanel",
+	"pools" : [
+		 ],
+	"super" : "SEWAFWebPanel",
+	"type" : "normal" }

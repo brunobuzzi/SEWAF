@@ -1,0 +1,3 @@
+Accessing
+currentComponentIndex
+	^currentComponentIndex
