@@ -61,6 +61,7 @@ orbeonPortalCss
 	height: 80%;
 }
 #sewaf-wizard-navigation {
-	height: 20%;
+	height: 25px;
+	margin-top: 20px;
 }
 '
