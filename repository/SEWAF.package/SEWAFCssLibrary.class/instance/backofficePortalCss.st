@@ -141,6 +141,15 @@ backofficePortalCss
 	color: darkgreen;
 	text-align: center;
 }
+.imported-process-info {
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 10px;
+	border-radius: 4px;
+	background-color: aliceblue;
+	padding: 10px;
+	font-size: 20px;
+}
 #imported-processes-title {
 	margin-left: 15px;
 	margin-top: 15px;
